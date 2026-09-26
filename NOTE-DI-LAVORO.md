@@ -252,3 +252,6 @@ Perché in pubblico usa la destra: nell'esercito, in formazione, si combatte tut
 
 ### 2026-09-26 — Perché parte: arruolato a forza
 Il pascià chiede uomini al villaggio per la guerra contro la Russia, e **tocca a Halil**. Non è una scelta sua: così nella prima parte si recupera il cuore emotivo della "scelta del consiglio" del vecchio cap. 1 (il villaggio che deve dare qualcuno, il padre, la partenza), aggiornato al 1787.
+
+### 2026-09-26 — Lunghezza: romanzo lungo
+Obiettivo: **più di 350 pagine** (circa 100.000 parole o più). C'è quindi spazio per raccontare per intero la guerra russo-turca, la vita al villaggio prima e dopo, la guarigione e il duello. La scaletta va ampliata, probabilmente a 30–40 capitoli.
