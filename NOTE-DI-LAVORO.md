@@ -140,3 +140,18 @@ Il cap. 1 conta 1.400 parole, tutti gli altri 400–650. Gli anni di corte (cap.
 5. **Brano Behu/Aga:** puoi mettere nel repository il file con il brano già scritto, e anche la versione albanese del romanzo, così non va riscritto?
 6. **Genealogia e 1431:** accettiamo i "vuoti" dell'albero o spostiamo la data (vedi sopra)?
 7. **Lunghezza obiettivo:** lunga novella (~20.000 parole) o romanzo (60.000 e oltre)?
+
+## Decisioni prese
+
+### 2026-09-26 — Il colpo alla mano destra, il duello, il titolo (risponde alle domande 1 e 2)
+Racconto dell'autore, da sviluppare insieme più avanti:
+- **Il colpo.** I nemici osservano Halil da lontano, con un cannocchiale, mentre regge un vitello con il **mignolo della mano destra**. Credono quindi che la destra sia la sua mano forte e decidono di togliergliela: lo colpiscono da lontano con una **palla di cannone**, che gli **stacca la mano destra**. Volevano ucciderlo, ma non ci riescono.
+- **Il duello.** Qualche tempo dopo gli avversari si presentano a sfidarlo e Halil accetta. Non sanno che è forte con la **sinistra** e lui vince. Da qui la mano "sallake" e il nome del villaggio **Çollak**.
+- **Chi è Halil.** È un guerriero abile con la spada (e non solo), molto amato e forte. Dopo il duello recupera tutti i suoi terreni.
+- **Il titolo.** Dalla Turchia arriva per lui il titolo **Behu**. Il soldato-messaggero lo cerca porta a porta. Alcuni vicini, che hanno anche loro un figlio soldato e molte terre (ma meno di Halil), gli dicono che il titolo lo consegneranno loro perché sono amici di Halil. In realtà fanno lo scambio: si tengono "Behu" e a Halil resta **"Aga"**, da cui Halilaga.
+
+Conseguenze per il lavoro:
+- **Domanda 1 (segreto):** i nemici non sanno che è mancino e lo scoprono solo nel duello. Il segreto quindi regge fino alla fine (è la soluzione A). Il soprannome pubblico "Solak" e il salvataggio del Pascià davanti a tutti vanno rivisti.
+- **Domanda 2 (braccio):** Halil **perde la mano destra**, non resta solo ferito come nel testo attuale.
+- **Behu/Aga:** questa versione (vicini che ingannano il messaggero) sostituisce quella del CONTESTO (l'emissario che confonde due premiati).
+- **Da discutere (epoca):** nel 1431 esistono già i cannoni, ma sono pesanti e imprecisi. Il cannocchiale invece compare solo intorno al 1608. Si può spostare la data, oppure far vedere la scena da una vedetta a occhio nudo, da un'altura.
