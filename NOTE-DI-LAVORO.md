@@ -1,0 +1,142 @@
+# Il mancino del sultano — note di lavoro
+
+Testo originale: `Il_Mancino_del_Sultano.docx` (~8.000 parole, prologo + 13 capitoli).
+Un file per capitolo in `manoscritto/` (`cap-000.md` è il prologo). I file contengono solo il testo, senza modifiche: le osservazioni stanno qui.
+Contesto del progetto, fonti e trama approvata: `CONTESTO_Il_Mancino_del_Sultano.md`, che fa da riferimento.
+
+## Trama approvata e testo attuale a confronto
+
+Il testo del .docx **non contiene ancora** diverse cose che il CONTESTO dà per approvate:
+
+| Nel CONTESTO | Nel testo attuale |
+|---|---|
+| Epoca 1431, sultano Murad II, sanxhakbe Ali Bej Evrenozi, Sanxhaku i Arvanidit | Nessuna data né sultano. C'è Piyale Pascià (reale, del XVI secolo): **anacronismo** |
+| Terminologia: harac, timar, sipahi | Solo "tributo" e "Sublime Porta" |
+| Prologo: il nonno che dice «capirai quando sarai grande», il libro manoscritto trovato sotto il pavimento con il padre | Il prologo parla del libro stampato di Hoxha e Hasalliu. Il nonno e il libro sotto l'asse non ci sono |
+| Titolo Behu diventato Aga per errore dell'emissario | Assente. Nel testo Halil è "agha" già a 25 anni, per carriera: **va conciliato** |
+| Etimologia Çollak = Sallak (mancino) | Assente |
+| Jelena, ostaggio serba, interesse amoroso | **Assente** (non c'è nessuna storia romantica) |
+| Mentore da unificare (Hasan Agha / Ilyas Ağa) | Il testo usa solo **Hasan Agha** (18 volte), quindi il nome è già unico |
+| Perde il braccio destro | Il braccio è ferito e resta menomato, ma non viene perso |
+| Ritorno verso i 20 anni | Cap. 7: agha a 25 anni, dal Sultano a 28. Cap. 8: 20 anni. **Contraddizione** |
+
+**Genealogia.** La linea Halil → … → Ilir → Ermal conta 8 generazioni, quindi il prologo è corretto. Però con un Halil nato intorno al 1421, otto generazioni fino a oggi darebbero circa 75–80 anni per generazione, e un lettore attento se ne accorge. Le possibilità sono due: ammettere nel prologo che l'albero ha dei vuoti ("i nomi che il libro ricorda"), oppure spostare la data.
+
+## La storia in breve
+
+Nel villaggio albanese di Leshtej-Çollakë il consiglio degli anziani deve consegnare un ostaggio al sultano. Sceglie Halil, dieci anni, mancino, figlio di Rexhep. A corte Hasan Agha lo obbliga a combattere con la destra in pubblico e intanto lo allena di nascosto con la sinistra. Salva la vita a Piyale Pascià e diventa "Halil Solak", il Mancino. Anni dopo viene rimandato a casa per un tributo non pagato, affiancato dal rivale d'infanzia Kasim. Kasim dà fuoco al granaio per inscenare una rivolta. Nello scontro colpiscono Halil al braccio destro, e lui vince con la sinistra. Poi resta al villaggio e fonda la stirpe degli Halilaga.
+
+Il nucleo è forte e autentico: la leggenda di famiglia ("lo colpirono al braccio destro senza sapere che era mancino"). Anche la cornice del prologo in prima persona funziona. Tutto il romanzo deve far arrivare quel colpo al braccio destro nel modo più credibile e doloroso possibile.
+
+## Personaggi
+
+| Personaggio | Ruolo | Dove compare |
+|---|---|---|
+| Halil (Halil Solak) | protagonista, mancino | tutti |
+| Rexhep | padre | 1, 2, 9, 12, 13 |
+| Fatime | madre (ha un nome solo nel cap. 9) | 1, 9 |
+| Bajram | fratello minore | 1, 9 |
+| Zenel | anziano del consiglio | 1, 10 |
+| Zylo | fabbro, primo a difendere la mano sinistra | 2 (ricordo), 12 |
+| Petrit | bambino che lo deride | 2 |
+| Deli Osman | soldato della scorta | 1, 2 |
+| Hasan Agha | mentore a corte | 3, 4, 5 |
+| Kasim | rivale, figlio di un pascià anatolico | 3–7, 10–13 |
+| Yusuf | amico bosniaco | 3, 5, 7 |
+| Piyale Pascià | protettore | 5, 6, 8, 13 |
+| Age | moglie (compare solo nel cap. 13) | 13 |
+| Murat | figlio | 13 |
+
+## Problemi principali (in ordine di importanza)
+
+### 1. La rivelazione finale non regge
+Il colpo di scena dei cap. 11–12 si basa sul fatto che nessuno sappia che Halil è mancino. Il testo però dice il contrario:
+- nel cap. 6 salva Piyale Pascià con la sinistra davanti a decine di soldati, e **Kasim lo vede con i suoi occhi**;
+- nel cap. 7 diventa ufficialmente "Halil Solak — Halil il Mancino", un nome "gridato apertamente", e comanda un reparto **composto solo da mancini**.
+
+Nel cap. 11, quindi, né Kasim né i suoi uomini possono credere di disarmarlo colpendo il braccio destro, e nel cap. 12 nessuno può dire stupito «È mancino». Questo è il punto da risolvere prima di tutti gli altri, perché è il cuore della leggenda. La contraddizione c'è già nella trama approvata del CONTESTO: Halil nasconde di essere mancino, ma poi entra in un reparto di mancini e lo chiamano "Solak". Alcune soluzioni possibili:
+- **A.** Il segreto resta segreto. Nel cap. 6 salva il Pascià, ma lo vede solo il Pascià (oppure il Pascià lo copre). Il soprannome "Solak" nasce per un altro motivo, oppure non esiste. Il pubblico continua a vederlo combattere con la destra.
+- **B.** Tutti sanno che è mancino, e il colpo al braccio destro ha un'altra logica. Per esempio non lo colpiscono per disarmarlo ma per umiliarlo o per bollarlo come traditore, oppure lo colpiscono i *turchi* (come dice la leggenda) che non lo conoscono, non gli uomini di Kasim.
+- **C.** Halil ha smesso di usare la sinistra dopo un'ingiunzione, un voto o una ferita, e tutti credono che ormai combatta con la destra.
+
+### 2. Cronologia contraddittoria
+- Parte a 10 anni. Nel cap. 7 è agha **a 25 anni** e viene ricevuto dal Sultano **a 28**. Nel cap. 8 la convocazione arriva **"nel suo ventesimo anno di età"**, "dieci anni" dopo la partenza.
+- Piyale lo conosce a 16 anni ma nel cap. 8 dice «non ti ho mai visto rifiutare un ordine in dieci anni».
+- "Dieci anni" torna in continuazione (dieci anni di campagne, di addestramento segreto, di servizio) senza tornare con i conti.
+- Il CONTESTO dice che il ritorno avviene intorno ai 20 anni. Se si tiene, la carriera del cap. 7 (agha a 25, dal Sultano a 28) va spostata o tolta.
+
+Serve una linea del tempo unica.
+
+### 3. Epoca e ricerca storica
+- L'epoca approvata è il **1431, sotto Murad II**. **Piyale Pascià** (ammiraglio reale, morto nel 1578) è quindi un anacronismo di oltre un secolo e va sostituito con un pascià inventato o con una figura dell'epoca di Murad II.
+- Nel cap. 1 e nel cap. 8 compare **"il rrethi di Kavajë"** (una suddivisione moderna) come entità politica chiamata a rispondere al Sultano. Nel 1431 va sostituito con il Sanxhaku i Arvanidit o con un'unità ottomana corretta. Nella cornice moderna il termine va benissimo.
+- Nel 1431 Istanbul è ancora **Costantinopoli bizantina**: la conquista è del 1453. La corte di Murad II stava a **Edirne (Adrianopoli)**. Oggi il testo manda Halil "a Istanbul" (cap. 1–3, 8, 13): è un **anacronismo grosso**.
+- **Solaklar**: storicamente erano arcieri giannizzeri della guardia a piedi del sultano. Solo quelli schierati su un lato erano mancini, non tutti. Va verificato.
+- Le scuole di palazzo (Enderun) formavano soprattutto ragazzi del **devşirme**, cioè cristiani. Un ostaggio musulmano, figlio di notabili, è plausibile, ma il suo status va chiarito.
+- Il viaggio "via mare" dall'Albania a Istanbul in 19 giorni è possibile, ma va deciso se passa per la Via Egnatia o circumnaviga la Grecia.
+- Il PDF `HalilagaBook.pdf` (il libro del villaggio) può dare date, nomi e dettagli veri su cui ancorare tutto questo.
+
+### 4. Catena di comando e antagonista
+- Nel cap. 8 Halil **comanda** la spedizione e Kasim è "a rinforzo". Nei cap. 10–11 però Kasim ordina a Halil di farsi da parte e decide lui cosa riferire a Istanbul. Chi comanda?
+- Nel cap. 8 il messaggero arriva "dagli uffici dello stesso Kasim": è un indizio che poi non porta a niente.
+- La redenzione di Kasim (cap. 13, dice la verità "forse per vergogna") è troppo facile e arriva fuori scena. Halil inoltre uccide un soldato imperiale e affronta a duello un comandante senza alcuna conseguenza.
+
+### 5. Promesse non mantenute
+- **Il coltello del padre** (cap. 1–2, con le 19 tacche) sparisce dopo il cap. 2. Nel climax del cap. 12 viene solo nominato. È l'oggetto simbolico perfetto: dovrebbe tornare in mano a Halil, o a Murat alla fine.
+- **La profezia di Piyale** («un uomo che sa sempre obbedire incontra prima o poi un ordine che non dovrebbe eseguire», cap. 8) non si realizza: Halil non riceve mai un ordine ingiusto a cui ribellarsi.
+- **Hasan Agha** esce di scena dopo il cap. 5 senza un addio.
+- **Yusuf** sparisce dopo il cap. 7.
+- **Il ragazzo di Elbasan** (cap. 3) viene presentato e poi mai usato.
+- **Petrit** non torna al villaggio nei cap. 9–10, e sarebbe un ottimo specchio.
+- **Age** (la moglie) compare dal nulla nell'ultimo capitolo.
+- **Fatime**: la madre ha un ruolo solo di sfondo.
+
+### 6. Ritmo e proporzioni
+Il cap. 1 conta 1.400 parole, tutti gli altri 400–650. Gli anni di corte (cap. 3–7) sono in gran parte **riassunti**: il cap. 7 copre più di dieci anni in una pagina. Il climax (cap. 11–12) dura circa 900 parole. Il lettore non vive mai davvero l'addestramento segreto, la paura, la nostalgia di casa. Per un romanzo il testo attuale è piuttosto una lunga novella o un trattamento: la maggior parte dei capitoli potrebbe raddoppiare o triplicare con scene vere.
+
+### 7. Stile
+- Frasi lunghe e subordinate a cascata, con molti incisi tra lineette.
+- Formule ricorrenti: "non X, ma Y", "per la prima volta" (9 volte), "senza alzare la voce", "un silenzio che…", "qualcosa di più…".
+- Molto *raccontato* e poco *mostrato*: le emozioni vengono spiegate ("un modo che i bambini non sanno nominare…").
+- Il narratore anticipa spesso il futuro ("le avrebbe capite molti anni dopo…"). Funziona se si usa poco.
+- Refusi: cap. 2 «quanti giorni sono passato» → «sono passati»; cap. 6 «un'urla» → «un urlo»; cap. 2 «aveva imparato a chiamarsi Deli Osman» (si intende che Halil aveva imparato il suo nome).
+
+## Note per capitolo
+
+**Prologo.** Voce in prima persona efficace e sincera. La chiusa («Quella non l'ho inventata io») è molto forte. Mancano però gli elementi approvati nel CONTESTO: il nonno che interrompe il racconto con «capirai quando sarai grande» e il libro manoscritto trovato sotto l'asse del pavimento insieme al padre. Sono più emozionanti del libro stampato e andrebbero integrati. Si potrebbe chiudere il romanzo con un epilogo che torni a questa voce, magari di nuovo nella casa abbandonata.
+
+**Cap. 1 — Il villaggio e il patto.** È il capitolo più riuscito, con scene vere e dialoghi asciutti. La battuta «Ho freddo» è bellissima. Una contraddizione: qui Halil impara il coltello "da solo, senza che nessuno glielo insegnasse", mentre nel cap. 2 è Zylo a insegnarglielo.
+
+**Cap. 2 — La mano sinistra.** Il flashback del fabbro funziona e fonda il tema. Le tacche sul coltello sono un dettaglio d'oro da riprendere più avanti. L'arrivo a Istanbul è evocativo ma breve.
+
+**Cap. 3 — L'arrivo a corte.** Presenta Kasim e Yusuf in modo un po' schematico: il rivale arrogante e l'amico gentile. Il callback «Vedremo tra un anno chi taglia meglio» funziona. Manca lo shock sensoriale della corte e manca la solitudine della prima notte.
+
+**Cap. 4 — L'addestramento.** Il patto con Hasan Agha è la chiave di tutto il romanzo e merita più spazio. La spiegazione sui Solaklar va verificata (§3). "Passarono così tre anni" liquida la parte più ricca di potenziale.
+
+**Cap. 5 — Alleanze e rivalità.** Bella la scena dell'ispezione («Non con quella mano»). Qui però Hasan Agha rivela il segreto in pubblico, e questo indebolisce il finale (§1).
+
+**Cap. 6 — La prima prova.** Primo combattimento, molto breve. È il capitolo in cui il segreto si brucia davanti a tutti, compreso Kasim: va ripensato insieme al §1.
+
+**Cap. 7 — L'ascesa.** Più di dieci anni in una pagina, con età in contraddizione (§2). Il soprannome "Solak" rende impossibile la sorpresa finale. L'avvertimento di Yusuf è una buona scena da sviluppare.
+
+**Cap. 8 — Il richiamo della terra natale.** La profezia di Piyale è la battuta migliore del capitolo, ma non viene ripagata (§5). Va chiarita la catena di comando (§4).
+
+**Cap. 9 — Il ritorno a Leshtej-Çollakë.** Capitolo emotivamente forte (il fratello e «ogni notte che hai dormito contro la mia schiena»). Qui si potrebbe dare più spazio a Fatime, a Zylo (o alla sua tomba) e a Petrit.
+
+**Cap. 10 — Tensioni.** La scoperta dell'esattore corrotto si risolve "in pochi giorni", troppo facilmente. Il confronto in piazza è buono. Halil è chiamato "generale", un grado mai spiegato.
+
+**Cap. 11 — Lo scontro decisivo.** L'incendio è efficace. Halil che sguaina "con la destra per riflesso" contraddice anni da Solak (§1). La chiusa «Fu un istante troppo lungo» funziona.
+
+**Cap. 12 — La rivelazione della mano sinistra.** È il momento della leggenda e va costruito meglio. Il padre sulla soglia che "riconosce il significato del coltello" viene solo detto: il coltello dovrebbe essere fisicamente in scena. Il discorso finale di Halil è un po' troppo lungo e retorico.
+
+**Cap. 13 — L'eredità.** Kasim si redime fuori scena. Il matrimonio con Age è frettoloso. Il dialogo col padre è bello, ma la battuta «sono tornato con la mano ancora intatta» è ambigua, perché il braccio destro resta menomato. Il finale riprende quasi alla lettera il prologo: come chiusura ad anello va bene, ma si può asciugare. Qui, o poco prima, trovano posto il brano già scritto su battaglia ed emissario, lo scambio **Behu → Aga** (da cui "Halilaga") e l'etimologia **Çollak = Sallak**, che chiude il cerchio della mano sinistra fin dentro il nome del villaggio.
+
+## Domande aperte per l'autore
+
+1. **Segreto della mano sinistra:** quale soluzione preferisci (§1 A, B o C)? È il nodo principale.
+2. **Braccio destro:** Halil lo *perde*, come dice il CONTESTO, o resta ferito e menomato, come nel testo attuale?
+3. **Età del ritorno:** 20 anni (e quindi niente carriera fino a 28) o più tardi?
+4. **Jelena:** la reintroduciamo? Se sì, in quali capitoli (corte, e forse il ritorno)?
+5. **Brano Behu/Aga:** puoi mettere nel repository il file con il brano già scritto, e anche la versione albanese del romanzo, così non va riscritto?
+6. **Genealogia e 1431:** accettiamo i "vuoti" dell'albero o spostiamo la data (vedi sopra)?
+7. **Lunghezza obiettivo:** lunga novella (~20.000 parole) o romanzo (60.000 e oltre)?
