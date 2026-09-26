@@ -240,3 +240,7 @@ Con 30–35 anni a generazione, e Ermal nato intorno al 1990 (da confermare): **
 - "I turchi" che vogliono le terre possono essere gli uomini di un **pascià** (per esempio Berat o Bushati) che si allarga su Kavajë. Un duello con il più forte del posto costa meno di una guerra.
 - Il titolo **Behu** può arrivare "da Istanbul", cioè dalla Porta, o dal pascià.
 - La parte "ostaggio alla corte del sultano" è meno tipica di quest'epoca. In alternativa Halil parte da ragazzo come **soldato** al servizio di un pascià o dell'esercito ottomano.
+
+### 2026-09-26 — Data di Halil fissata
+Ermal è nato nel **1997**. Con 7 passaggi da 30–35 anni, Halil nasce circa tra il 1752 e il 1787.
+**Scelta di lavoro:** Halil nasce **intorno al 1770**. Parte da ragazzo verso il 1780–85, torna verso il 1790, e **l'agguato e il duello cadono intorno al 1795–1800**. Negli stessi anni muore Kara Mahmud Bushati (1796), Ali Pascià di Tepelena è in piena ascesa e Berat e Scutari si contendono l'Albania centrale: momento ideale per un pascià che vuole le terre di Kavajë.
