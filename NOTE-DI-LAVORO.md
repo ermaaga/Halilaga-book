@@ -197,3 +197,22 @@ L'autore chiede di ricostruire la storia **da zero**, attorno al colpo di scena 
 
 ### 2026-09-26 — I vicini non sono rivali
 I vicini che si prendono il titolo Behu **non sono nemici né rivali** di Halil. Lo scambio è solo **un tocco di furbizia**, quasi comico, senza cattiveria. Nel capitolo finale deve far sorridere, non indignare. La scaletta è stata corretta di conseguenza: il nemico che organizza l'agguato con la lancia e poi lo sfida a duello è **un'altra persona, ancora da definire**.
+
+### 2026-09-26 — Il nemico: i turchi vogliono le terre senza versare sangue
+Idea dell'autore: i turchi vogliono prendere le terre di Halil. Mandano qualcuno a capire chi è **il più forte** del posto, per sfidarlo a **duello** e prendersi le terre **senza versare sangue**.
+
+#### Ricerca storica (contesto)
+- Nei primi decenni del Quattrocento l'Albania non è uno Stato, ma un mosaico di casate: i **Thopia** (Krujë, Durrës, cioè la zona di Kavajë), i **Muzaka** (Berat e la pianura), gli **Arianiti** (sud), i **Dukagjini** (nord), i **Kastrioti** (Mat, Dibra).
+- **1431–32**: gli ottomani censiscono il **Sanxhaku i Arvanidit** e lo dividono in 335 **timar**, di due o tre villaggi ciascuno, assegnati a **sipahi** (anche locali, anche cristiani).
+- **1432–1436**: una rivolta albanese, perché i nobili locali vengono sostituiti da feudatari ottomani. Comincia proprio nell'**Albania centrale**, dove **Andrea Thopia** sconfigge un piccolo reparto turco. **Gjergj Arianiti**, ostaggio alla corte ottomana, fugge per guidarla. Viene domata nel 1436.
+- **Skanderbeg** (Gjergj Kastrioti, 1405–1468): ostaggio a corte da ragazzo, poi ufficiale ottomano ("Iskender Bey"). Nel **1443** diserta e solleva Krujë, e nel 1444 nasce la **Lega di Lezhë**. Resiste fino alla morte (1468). Krujë cade nel 1478.
+- **Durrës** resta veneziana fino al **1501**: la pianura di Kavajë è una **terra di confine** tra ottomani, albanesi e Venezia.
+- **I duelli tra campioni** erano un'usanza reale in queste guerre: Skanderbeg sfida Ibrahim a Polog e lo uccide; prima di una battaglia il cavaliere Pal Manasi decapita il campione turco Kragoz; a Oranik (1456) Moisi sfida Skanderbeg ma poi fugge.
+- Fonti: pagine Wikipedia su "Albanian revolt of 1432–1436", "Andrea II Thopia", "Sanjak of Albania", "Skanderbeg", "Battle of Polog", "Battle of Oranik (1456)".
+
+#### Perché l'idea regge
+- In una terra di confine i turchi non vogliono una guerra aperta, che spingerebbe la gente verso Skanderbeg o verso Venezia. Un duello "legale" con il più forte del posto è un modo per prendersi le terre senza sollevare il villaggio.
+- Il loro inviato osserva, vede il vitello retto con il mignolo della destra e riferisce che la mano forte è la destra.
+- **Possibile svolta:** il duello doveva essere "senza sangue", ma l'inviato (o il campione) non vuole rischiare. Fa tendere l'agguato con la lancia **prima** del duello, così la vittoria è sicura. L'ipocrisia del "senza versare sangue" diventa il cuore del tradimento.
+- Dopo la sconfitta del loro campione, gli ottomani fanno una scelta pragmatica: invece di combattere Halil **se lo fanno amico** e gli danno un titolo (Behu). Era una pratica reale, perché gli ottomani inglobavano i notabili locali nel sistema dei timar. Qui si innesta la furbizia dei vicini.
+- Parallelo forte: **anche Skanderbeg e Arianiti furono ostaggi a corte da ragazzi**. La parte di Halil ostaggio a corte è quindi del tutto verosimile.
