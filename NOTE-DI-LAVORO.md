@@ -155,3 +155,7 @@ Conseguenze per il lavoro:
 - **Domanda 2 (braccio):** Halil **perde la mano destra**, non resta solo ferito come nel testo attuale.
 - **Behu/Aga:** questa versione (vicini che ingannano il messaggero) sostituisce quella del CONTESTO (l'emissario che confonde due premiati).
 - **Da discutere (epoca):** nel 1431 esistono già i cannoni, ma sono pesanti e imprecisi. Il cannocchiale invece compare solo intorno al 1608. Si può spostare la data, oppure far vedere la scena da una vedetta a occhio nudo, da un'altura.
+
+### 2026-09-26 — Una lancia al posto della palla di cannone
+La mano destra non la stacca più una palla di cannone ma una **lancia affilata**. Questo toglie il problema del cannone nel 1431. Resta da togliere il cannocchiale: chi osserva Halil lo vede a occhio nudo (per esempio una vedetta su un'altura).
+Da decidere nella scena: la lancia **recide** la mano sul colpo, oppure la ferisce così gravemente che poi va **amputata**.
