@@ -159,3 +159,11 @@ Conseguenze per il lavoro:
 ### 2026-09-26 — Una lancia al posto della palla di cannone
 La mano destra non la stacca più una palla di cannone ma una **lancia affilata**. Questo toglie il problema del cannone nel 1431. Resta da togliere il cannocchiale: chi osserva Halil lo vede a occhio nudo (per esempio una vedetta su un'altura).
 Da decidere nella scena: la lancia **recide** la mano sul colpo, oppure la ferisce così gravemente che poi va **amputata**.
+
+### 2026-09-26 — Il lettore non deve sapere che Halil è mancino
+Fino al duello **anche il lettore** non deve sapere con certezza che Halil è mancino, però deve poterlo **intuire** da alcuni indizi sparsi.
+Conseguenze sul testo attuale (dove lo si dice apertamente fin dall'inizio):
+- vanno riscritti il cap. 2 ("La mano sinistra"), il patto con Hasan Agha (cap. 4), l'ispezione (cap. 5), il salvataggio del Pascià (cap. 6) e il soprannome "Solak" (cap. 7);
+- il prologo non deve rivelare la leggenda per intero;
+- il **titolo** "Il Mancino del Sultano" lo rivela già in copertina: va deciso se tenerlo.
+Tecniche possibili per gli indizi: dettagli ambigui (la madre che gli sposta il cucchiaio nell'altra mano, il fabbro che lo guarda in modo strano), allenamenti notturni raccontati senza dire con quale mano, calli o cicatrici sulla mano "sbagliata", Hasan Agha che dice «in pubblico, sempre la destra» senza spiegare perché.
