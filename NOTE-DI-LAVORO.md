@@ -308,3 +308,16 @@ Scritto il **prologo** (bozza 1). Scelte fatte:
 ### 2026-09-26 — Capitolo 1 scritto (bozza 1)
 Fine agosto 1787: la trebbiatura, la cena, la bottega di Zylo, la fonte, il cavaliere. Introduce **Shaban** (il vicino simpatico e furbo, quello dei cavalli "prestati per un pomeriggio") e suo figlio **Ramadan**, amico d'infanzia di Halil e un anno più grande. Sono loro i futuri "ladri" del titolo Behu, e la loro furbizia viene seminata qui con leggerezza. **Hatixhe** è figlia di Zenel, anziano del consiglio. Indizi sulla mano: il cucchiaio, Zylo che sorride («Tuo nonno batteva così»), Hatixhe che guarda le mani di Halil e lui che ne nasconde una. Nessuna mano viene mai nominata.
 Fatto storico: la Porta dichiara guerra alla Russia nell'agosto 1787. A Leshtej tocca dare quattro uomini.
+
+### 2026-09-26 — Prima stesura completa (bozza 1)
+Scritti tutti i capitoli, dal prologo all'epilogo, in `romanzo/`. Totale: circa **22.500 parole**, cioè circa 80–90 pagine in formato libro. L'obiettivo di circa 150 pagine richiede quindi di **ampliare** in revisione, capitolo per capitolo.
+
+Scelte fatte scrivendo (da confermare con l'autore):
+- **Personaggi nuovi:** Qamil (muore a Rymnik), Dervish (muore a Izmail), il bylykbash Sulejman (muore a Izmail), Selim Efendi (lo scrivano del pascià, con il cannocchiale), Kara Ömer (il campione di Konya), Hysen il Nero (il lanciere della Mallakastra). **Il pascià resta senza nome.**
+- **Ramadan** è l'amico e il compagno di guerra salvato a Izmail. Vede "qualcosa" nel fumo e tiene il segreto («c'era il fumo»). Al duello ride.
+- **Il coltello del nonno** è affilato "dalla parte sbagliata", cioè giusta per un mancino. Le tacche sono i morti da ricordare: Halil ne aggiunge per Qamil, Dervish, Sulejman, Izmail e infine per la mano. Chiude il duello. Alla fine finisce nella culla di Murat.
+- **Il sussurro di Zylo** prima dell'amputazione, rivelato solo dopo il duello: «Adesso nessuno ti dirà più quale mano usare».
+- **Il nome del villaggio:** i soldati turchi gridano *çolak* (in turco "monco", "con il braccio menomato"), il villaggio grida *sallak* ("mancino"). Le due parole si fondono in **Çollak**.
+- **Behu e Aga:** la Porta concede due titoli ai due veterani di Izmail, Behu a chi ha più terra e Aga all'altro. Shaban convince il çavuş che la terra più grande è di Ramadan, e sul registro i nomi si scambiano. Halil ride.
+- **Hatixhe** sa tutto dalla fonte in poi. La mano che stringe alla partenza è quella che torna «intera».
+- **Da verificare:** nell'epilogo Ermal dice che il libro trovato riporta la guerra, la mano, il duello e il titolo, e che spiega la parola *sallak*. Va controllato che sia vero per il libro reale. Inventati anche il cartello del villaggio e il vecchio in piazza.
