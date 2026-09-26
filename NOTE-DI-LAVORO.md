@@ -302,5 +302,5 @@ Da decidere più avanti: il titolo del romanzo, il nome del pascià e del suo ca
 L'autore approva la scaletta v2 (la rileggerà e, se serve, la cambieremo). **Un file per capitolo** in `romanzo/`, con lo script `crea_docx.py` che li unisce in `Romanzo_Halil.docx`.
 Scritto il **prologo** (bozza 1). Scelte fatte:
 - «sallake» **non viene tradotto**: il lettore italiano non sa che vuol dire "mancina", e il significato arriva solo nel duello;
-- nel libro trovato sotto il pavimento, gli ultimi nomi dell'albero sono scritti **con la grafia del nonno**. È un dettaglio inventato, **da confermare** con l'autore;
+- nel libro trovato sotto il pavimento, gli ultimi nomi dell'albero sono scritti **con la grafia del nonno**. Dettaglio inventato, **approvato dall'autore**;
 - i dettagli sul nonno (voce roca, ha riso e ha cambiato discorso) sono generici: vanno sostituiti con ricordi veri.
