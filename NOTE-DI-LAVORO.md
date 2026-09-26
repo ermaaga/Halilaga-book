@@ -262,3 +262,6 @@ L'autore ha cambiato idea: il romanzo sarà **breve, circa 150 pagine** (40.000�
 ### 2026-09-26 — Storia d'amore: una ragazza del villaggio
 Sì a una storia d'amore **al villaggio**: una ragazza che Halil lascia quando parte, nel 1787, e ritrova al ritorno. Diventa la moglie, la madre di Murat. Il vecchio testo la chiamava Age, e compariva solo nell'ultimo capitolo. Ora va presentata **fin dall'inizio**.
 Idea: può essere lei una delle poche a **intuire** la mano sinistra, per esempio notando un callo o un gesto. È un indizio per il lettore, e dopo l'agguato è lei a stargli accanto durante la guarigione.
+
+### 2026-09-26 — Niente "Age"
+Il nome **Age** si scarta perché si confonde con il titolo **Aga**. Serve un altro nome per la ragazza.
