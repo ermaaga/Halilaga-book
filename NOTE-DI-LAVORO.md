@@ -216,3 +216,6 @@ Idea dell'autore: i turchi vogliono prendere le terre di Halil. Mandano qualcuno
 - **Possibile svolta:** il duello doveva essere "senza sangue", ma l'inviato (o il campione) non vuole rischiare. Fa tendere l'agguato con la lancia **prima** del duello, così la vittoria è sicura. L'ipocrisia del "senza versare sangue" diventa il cuore del tradimento.
 - Dopo la sconfitta del loro campione, gli ottomani fanno una scelta pragmatica: invece di combattere Halil **se lo fanno amico** e gli danno un titolo (Behu). Era una pratica reale, perché gli ottomani inglobavano i notabili locali nel sistema dei timar. Qui si innesta la furbizia dei vicini.
 - Parallelo forte: **anche Skanderbeg e Arianiti furono ostaggi a corte da ragazzi**. La parte di Halil ostaggio a corte è quindi del tutto verosimile.
+
+### 2026-09-26 — Il prologo non piace
+All'autore non piace il prologo proposto (il nonno, «capirai quando sarai grande», il libro sotto il pavimento). Da decidere se togliere del tutto il prologo o farne uno diverso.
