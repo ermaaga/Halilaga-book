@@ -255,3 +255,6 @@ Il pascià chiede uomini al villaggio per la guerra contro la Russia, e **tocca 
 
 ### 2026-09-26 — Lunghezza: romanzo lungo
 Obiettivo: **più di 350 pagine** (circa 100.000 parole o più). C'è quindi spazio per raccontare per intero la guerra russo-turca, la vita al villaggio prima e dopo, la guarigione e il duello. La scaletta va ampliata, probabilmente a 30–40 capitoli.
+
+### 2026-09-26 — Lunghezza: cambio idea, romanzo breve
+L'autore ha cambiato idea: il romanzo sarà **breve, circa 150 pagine** (40.000–45.000 parole). Questa scelta **sostituisce** quella del "romanzo lungo". Restano circa 15–20 capitoli: la guerra va raccontata per scene scelte, non per intero.
