@@ -265,3 +265,35 @@ Idea: può essere lei una delle poche a **intuire** la mano sinistra, per esempi
 
 ### 2026-09-26 — Niente "Age"
 Il nome **Age** si scarta perché si confonde con il titolo **Aga**. Serve un altro nome per la ragazza.
+
+### 2026-09-26 — La ragazza si chiama Hatixhe
+
+## Scaletta v2 (fa sintesi delle decisioni del 26/09; sostituisce la "Scaletta proposta")
+Romanzo breve, circa 150 pagine. Fine Settecento. Il lettore **intuisce** la mano sinistra ma ne ha la conferma solo nel duello.
+
+**Prologo — oggi.** Ermal bambino sente il nonno parlare della «mano sallake» di Halil, solo quel frammento. Anni dopo, con il padre Ilir, trova nella casa abbandonata il libro scritto a mano sotto l'asse del pavimento.
+
+**Parte prima — Leshtej, 1787**
+1. Halil ha 17 anni. Vita al villaggio, il padre Rexhep, la madre, Hatixhe. Primi indizi ambigui (la madre e il cucchiaio, il fabbro che sorride).
+2. Il pascià chiede uomini per la guerra contro la Russia, e tocca a Halil. Il coltello del padre. L'addio a Hatixhe.
+
+**Parte seconda — La guerra, 1787–1792**
+3. La marcia verso il Danubio. Nei ranghi si combatte tutti con la destra, e Halil obbedisce. Di notte, qualcosa che il lettore non vede bene.
+4. La prima battaglia (1789). Halil sopravvive e si fa un nome con la spada.
+5. Izmail, dicembre 1790: l'inferno. Halil salva dei compagni. Un gesto ambiguo.
+6. La pace (1792) e il lungo ritorno.
+
+**Parte terza — Il ritorno, 1792–1799**
+7. Il ritorno a casa. Hatixhe, il matrimonio, le terre. Halil è amato e forte. I vicini, simpatici e furbi.
+8. L'Albania centrale è contesa. Un pascià vuole le terre di Kavajë senza una guerra: sfiderà il più forte del posto. Manda un osservatore.
+9. Il vitello: Halil lo regge con il mignolo della destra. L'osservatore lo guarda con il cannocchiale.
+10. «La sua mano forte è la destra.» Il campione non vuole rischiare, e il "senza sangue" diventa un agguato.
+11. La lancia: Halil perde la mano destra. Lo credono finito.
+12. La guarigione, con Hatixhe accanto. Le notti. (Ambiguo.)
+13. Arriva la sfida: il duello per le terre. Il villaggio è disperato e Halil accetta.
+14. Il duello: la sinistra. «Sallak!» Recupera le terre. Da qui il nome **Çollak**.
+15. Il titolo Behu, il messaggero che bussa porta a porta, i vicini furbi: Halil diventa **Aga**. Deve far sorridere. Nasce Murat.
+
+**Epilogo — oggi.** Ermal ora sa cosa voleva dire il nonno.
+
+Da decidere più avanti: il titolo del romanzo, il nome del pascià e del suo campione, il ruolo del coltello del padre nel duello.
