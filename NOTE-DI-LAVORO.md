@@ -172,7 +172,7 @@ Tecniche possibili per gli indizi: dettagli ambigui (la madre che gli sposta il 
 L'autore chiede di ricostruire la storia **da zero**, attorno al colpo di scena (vitello → lancia → mano destra perduta → duello con la sinistra → Sallak/Çollak → titolo Behu/Aga). Il testo attuale del .docx resta come materiale da cui attingere, non come base obbligata.
 
 #### Scaletta proposta (da approvare)
-**Prologo.** Ermal bambino, il nonno racconta di Halil ma si interrompe sempre: «capirai quando sarai grande». Anni dopo, con il padre, il libro sotto l'asse del pavimento. Il finale della leggenda non viene detto.
+**Prologo.** Ermal bambino sente dal nonno solo un frammento: «la mano sallake» di Halil. Il nonno non racconta mai la storia per intero. Anni dopo, con il padre, trova il libro sotto l'asse del pavimento, e lì la storia c'è tutta. Il finale della leggenda non viene detto.
 
 **Parte prima — Il ragazzo**
 1. Halil bambino a Leshtej. Piccoli indizi ambigui (la madre che gli sposta il cucchiaio, il fabbro che sorride). I vicini, gente simpatica e furba, e il loro figlio, amico di Halil.
@@ -193,7 +193,7 @@ L'autore chiede di ricostruire la storia **da zero**, attorno al colpo di scena 
 12. Il duello in piazza: la sinistra. «Sallak.» Recupera le terre.
 13. Il titolo Behu, il messaggero porta a porta, l'inganno dei vicini: Halil diventa Aga.
 
-**Epilogo.** Ermal adulto capisce finalmente il «capirai quando sarai grande» del nonno.
+**Epilogo.** Si torna a Ermal: ora sa cosa voleva dire il nonno con «la mano sallake».
 
 ### 2026-09-26 — I vicini non sono rivali
 I vicini che si prendono il titolo Behu **non sono nemici né rivali** di Halil. Lo scambio è solo **un tocco di furbizia**, quasi comico, senza cattiveria. Nel capitolo finale deve far sorridere, non indignare. La scaletta è stata corretta di conseguenza: il nemico che organizza l'agguato con la lancia e poi lo sfida a duello è **un'altra persona, ancora da definire**.
@@ -219,3 +219,6 @@ Idea dell'autore: i turchi vogliono prendere le terre di Halil. Mandano qualcuno
 
 ### 2026-09-26 — Il prologo non piace
 All'autore non piace il prologo proposto (il nonno, «capirai quando sarai grande», il libro sotto il pavimento). Da decidere se togliere del tutto il prologo o farne uno diverso.
+
+### 2026-09-26 — Il nonno e il prologo (ricordo vero)
+Il prologo si tiene. Il nonno parlava davvero a Ermal della **mano "sallake"**, ma non gli ha mai raccontato la storia per bene: la storia completa Ermal l'ha trovata nel **libro**. La frase «capirai quando sarai grande» viene **tolta** (nel CONTESTO c'era, ma non corrisponde a un ricordo reale). La scaletta è stata corretta.
