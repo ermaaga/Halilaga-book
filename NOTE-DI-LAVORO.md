@@ -222,3 +222,21 @@ All'autore non piace il prologo proposto (il nonno, «capirai quando sarai grand
 
 ### 2026-09-26 — Il nonno e il prologo (ricordo vero)
 Il prologo si tiene. Il nonno parlava davvero a Ermal della **mano "sallake"**, ma non gli ha mai raccontato la storia per bene: la storia completa Ermal l'ha trovata nel **libro**. La frase «capirai quando sarai grande» viene **tolta** (nel CONTESTO c'era, ma non corrisponde a un ricordo reale). La scaletta è stata corretta.
+
+### 2026-09-26 — I conti sull'epoca: Ermal è l'8ª generazione
+Linea: Halil → Murat → Abdyl → Isuf → Behxhed → Agim → Ilir → Ermal. Sono **7 passaggi** da Halil a Ermal.
+Con 30–35 anni a generazione, e Ermal nato intorno al 1990 (da confermare): **Halil nasce circa tra il 1745 e il 1780**, ed è adulto e attivo **circa tra il 1770 e il 1810**. Behxhed nasce intorno al 1900, e questo è coerente con gli Halilaga citati nel libro per le guerre balcaniche del 1912–13.
+**Conseguenza:** il 1431, Murad II e Skanderbeg sono **troppo presto**: servirebbero 75–80 anni a generazione. L'epoca giusta è la **fine del Settecento**.
+
+#### Il contesto di fine Settecento (ricerca)
+- L'impero ottomano è in declino e l'Albania è in mano a grandi **pascià locali**: i **Bushati** a Shkodër (**Kara Mahmud Pasha**, 1775–1796), **Ahmet Kurt Pasha** e poi il Pashalik di **Berat** (dal 1774), **Ali Pasha di Tepelena** a Giannina (dal 1788).
+- **L'Albania centrale è contesa**: la famiglia **Alltuni** domina la kaza di **Kavajë**, i **Bargjini** Tirana e i **Toptani** Krujë. Tra alleanze e scontri, tutti puntano al **porto di Durrës**. Kara Mahmud scende con 6.000 uomini, **prende Kavajë** e ci mette un governatore fantoccio.
+- I titoli **Aga** e **Bej** sono normalissimi in quest'epoca.
+- Esistono il **cannocchiale** (quindi l'idea originale del "binocolo" torna possibile) e il cannone.
+- Molti albanesi combattono come soldati negli eserciti ottomani (per esempio nelle guerre russo-turche del 1768–74 e 1787–92): Halil può essersi fatto le ossa lì.
+- Fonti: Wikipedia, "Albanian Pashaliks", "Kara Mahmud Pasha", "Pashalik of Berat", "Sanjak of Durrës", "Ahmet Kurt Pasha".
+
+#### Come si adatta la trama
+- "I turchi" che vogliono le terre possono essere gli uomini di un **pascià** (per esempio Berat o Bushati) che si allarga su Kavajë. Un duello con il più forte del posto costa meno di una guerra.
+- Il titolo **Behu** può arrivare "da Istanbul", cioè dalla Porta, o dal pascià.
+- La parte "ostaggio alla corte del sultano" è meno tipica di quest'epoca. In alternativa Halil parte da ragazzo come **soldato** al servizio di un pascià o dell'esercito ottomano.
