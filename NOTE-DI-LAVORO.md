@@ -249,3 +249,6 @@ Ermal è nato nel **1997**. Con 7 passaggi da 30–35 anni, Halil nasce circa tr
 Halil parte come **soldato nell'esercito ottomano** e combatte nella **guerra russo-turca del 1787–1792**. Nato intorno al 1770, ci arriva a circa 17 anni. Le tappe storiche disponibili sono l'assedio di Ochakov (1788), Focșani e Rymnik (1789, sconfitte ottomane contro Suvorov), l'assalto russo a **Izmail** (dicembre 1790, un massacro), Măcin (1791) e la pace di Iași (1792). Rientra al villaggio verso il 1792–93, a poco più di vent'anni.
 Perché in pubblico usa la destra: nell'esercito, in formazione, si combatte tutti con la destra, e un mancino viene "corretto". Lui obbedisce in pubblico e di nascosto non perde la sinistra. Questo prepara l'errore dei turchi senza rivelare nulla al lettore.
 (I dettagli sulle battaglie vanno verificati prima di scrivere le scene.)
+
+### 2026-09-26 — Perché parte: arruolato a forza
+Il pascià chiede uomini al villaggio per la guerra contro la Russia, e **tocca a Halil**. Non è una scelta sua: così nella prima parte si recupera il cuore emotivo della "scelta del consiglio" del vecchio cap. 1 (il villaggio che deve dare qualcuno, il padre, la partenza), aggiornato al 1787.
