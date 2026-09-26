@@ -244,3 +244,8 @@ Con 30–35 anni a generazione, e Ermal nato intorno al 1990 (da confermare): **
 ### 2026-09-26 — Data di Halil fissata
 Ermal è nato nel **1997**. Con 7 passaggi da 30–35 anni, Halil nasce circa tra il 1752 e il 1787.
 **Scelta di lavoro:** Halil nasce **intorno al 1770**. Parte da ragazzo verso il 1780–85, torna verso il 1790, e **l'agguato e il duello cadono intorno al 1795–1800**. Negli stessi anni muore Kara Mahmud Bushati (1796), Ali Pascià di Tepelena è in piena ascesa e Berat e Scutari si contendono l'Albania centrale: momento ideale per un pascià che vuole le terre di Kavajë.
+
+### 2026-09-26 — Gli anni lontano: soldato nell'esercito ottomano
+Halil parte come **soldato nell'esercito ottomano** e combatte nella **guerra russo-turca del 1787–1792**. Nato intorno al 1770, ci arriva a circa 17 anni. Le tappe storiche disponibili sono l'assedio di Ochakov (1788), Focșani e Rymnik (1789, sconfitte ottomane contro Suvorov), l'assalto russo a **Izmail** (dicembre 1790, un massacro), Măcin (1791) e la pace di Iași (1792). Rientra al villaggio verso il 1792–93, a poco più di vent'anni.
+Perché in pubblico usa la destra: nell'esercito, in formazione, si combatte tutti con la destra, e un mancino viene "corretto". Lui obbedisce in pubblico e di nascosto non perde la sinistra. Questo prepara l'errore dei turchi senza rivelare nulla al lettore.
+(I dettagli sulle battaglie vanno verificati prima di scrivere le scene.)
