@@ -175,22 +175,25 @@ L'autore chiede di ricostruire la storia **da zero**, attorno al colpo di scena 
 **Prologo.** Ermal bambino, il nonno racconta di Halil ma si interrompe sempre: «capirai quando sarai grande». Anni dopo, con il padre, il libro sotto l'asse del pavimento. Il finale della leggenda non viene detto.
 
 **Parte prima — Il ragazzo**
-1. Halil bambino a Leshtej. Piccoli indizi ambigui (la madre che gli sposta il cucchiaio, il fabbro che sorride). I vicini e il loro figlio, coetaneo e rivale.
+1. Halil bambino a Leshtej. Piccoli indizi ambigui (la madre che gli sposta il cucchiaio, il fabbro che sorride). I vicini, gente simpatica e furba, e il loro figlio, amico di Halil.
 2. Il consiglio sceglie Halil come ostaggio per il sultano. Il coltello del padre. La partenza.
 
 **Parte seconda — La corte (Edirne)**
 3. L'arrivo e la solitudine della prima notte.
 4. Hasan Agha: «in pubblico, sempre la destra». Non spiega perché.
 5. Allenamenti di notte, raccontati senza dire con quale mano.
-6. Le prime battaglie: Halil diventa un guerriero famoso con la spada. Anche il figlio dei vicini è soldato, e la rivalità cresce.
+6. Le prime battaglie: Halil diventa un guerriero famoso con la spada. Il nemico (da definire) entra in scena.
 7. Il congedo e la ricompensa: terre vicino a Kavajë.
 
 **Parte terza — Il ritorno**
-8. Il ritorno. Halil è amato e ha più terre dei vicini. L'invidia.
+8. Il ritorno. Halil è amato e ha molte terre. Chi lo vuole morto (da definire).
 9. Il vitello: lo salva reggendolo con il mignolo della destra. Qualcuno guarda.
-10. L'agguato con la lancia: perde la mano destra. Lo danno per finito, e i vicini puntano alle sue terre.
+10. L'agguato con la lancia: perde la mano destra. Lo danno per finito, e il nemico punta alle sue terre.
 11. La guarigione. Di notte, di nascosto, qualcosa che il lettore intuisce appena.
 12. Il duello in piazza: la sinistra. «Sallak.» Recupera le terre.
 13. Il titolo Behu, il messaggero porta a porta, l'inganno dei vicini: Halil diventa Aga.
 
 **Epilogo.** Ermal adulto capisce finalmente il «capirai quando sarai grande» del nonno.
+
+### 2026-09-26 — I vicini non sono rivali
+I vicini che si prendono il titolo Behu **non sono nemici né rivali** di Halil. Lo scambio è solo **un tocco di furbizia**, quasi comico, senza cattiveria. Nel capitolo finale deve far sorridere, non indignare. La scaletta è stata corretta di conseguenza: il nemico che organizza l'agguato con la lancia e poi lo sfida a duello è **un'altra persona, ancora da definire**.
