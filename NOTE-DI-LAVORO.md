@@ -140,3 +140,184 @@ Il cap. 1 conta 1.400 parole, tutti gli altri 400–650. Gli anni di corte (cap.
 5. **Brano Behu/Aga:** puoi mettere nel repository il file con il brano già scritto, e anche la versione albanese del romanzo, così non va riscritto?
 6. **Genealogia e 1431:** accettiamo i "vuoti" dell'albero o spostiamo la data (vedi sopra)?
 7. **Lunghezza obiettivo:** lunga novella (~20.000 parole) o romanzo (60.000 e oltre)?
+
+## Decisioni prese
+
+### 2026-09-26 — Il colpo alla mano destra, il duello, il titolo (risponde alle domande 1 e 2)
+Racconto dell'autore, da sviluppare insieme più avanti:
+- **Il colpo.** I nemici osservano Halil da lontano, con un cannocchiale, mentre regge un vitello con il **mignolo della mano destra**. Credono quindi che la destra sia la sua mano forte e decidono di togliergliela: lo colpiscono da lontano con una **palla di cannone**, che gli **stacca la mano destra**. Volevano ucciderlo, ma non ci riescono.
+- **Il duello.** Qualche tempo dopo gli avversari si presentano a sfidarlo e Halil accetta. Non sanno che è forte con la **sinistra** e lui vince. Da qui la mano "sallake" e il nome del villaggio **Çollak**.
+- **Chi è Halil.** È un guerriero abile con la spada (e non solo), molto amato e forte. Dopo il duello recupera tutti i suoi terreni.
+- **Il titolo.** Dalla Turchia arriva per lui il titolo **Behu**. Il soldato-messaggero lo cerca porta a porta. Alcuni vicini, che hanno anche loro un figlio soldato e molte terre (ma meno di Halil), gli dicono che il titolo lo consegneranno loro perché sono amici di Halil. In realtà fanno lo scambio: si tengono "Behu" e a Halil resta **"Aga"**, da cui Halilaga.
+
+Conseguenze per il lavoro:
+- **Domanda 1 (segreto):** i nemici non sanno che è mancino e lo scoprono solo nel duello. Il segreto quindi regge fino alla fine (è la soluzione A). Il soprannome pubblico "Solak" e il salvataggio del Pascià davanti a tutti vanno rivisti.
+- **Domanda 2 (braccio):** Halil **perde la mano destra**, non resta solo ferito come nel testo attuale.
+- **Behu/Aga:** questa versione (vicini che ingannano il messaggero) sostituisce quella del CONTESTO (l'emissario che confonde due premiati).
+- **Da discutere (epoca):** nel 1431 esistono già i cannoni, ma sono pesanti e imprecisi. Il cannocchiale invece compare solo intorno al 1608. Si può spostare la data, oppure far vedere la scena da una vedetta a occhio nudo, da un'altura.
+
+### 2026-09-26 — Una lancia al posto della palla di cannone
+La mano destra non la stacca più una palla di cannone ma una **lancia affilata**. Questo toglie il problema del cannone nel 1431. Resta da togliere il cannocchiale: chi osserva Halil lo vede a occhio nudo (per esempio una vedetta su un'altura).
+Da decidere nella scena: la lancia **recide** la mano sul colpo, oppure la ferisce così gravemente che poi va **amputata**.
+
+### 2026-09-26 — Il lettore non deve sapere che Halil è mancino
+Fino al duello **anche il lettore** non deve sapere con certezza che Halil è mancino, però deve poterlo **intuire** da alcuni indizi sparsi.
+Conseguenze sul testo attuale (dove lo si dice apertamente fin dall'inizio):
+- vanno riscritti il cap. 2 ("La mano sinistra"), il patto con Hasan Agha (cap. 4), l'ispezione (cap. 5), il salvataggio del Pascià (cap. 6) e il soprannome "Solak" (cap. 7);
+- il prologo non deve rivelare la leggenda per intero;
+- il **titolo** "Il Mancino del Sultano" lo rivela già in copertina: va deciso se tenerlo.
+Tecniche possibili per gli indizi: dettagli ambigui (la madre che gli sposta il cucchiaio nell'altra mano, il fabbro che lo guarda in modo strano), allenamenti notturni raccontati senza dire con quale mano, calli o cicatrici sulla mano "sbagliata", Hasan Agha che dice «in pubblico, sempre la destra» senza spiegare perché.
+
+### 2026-09-26 — Si riparte da zero
+L'autore chiede di ricostruire la storia **da zero**, attorno al colpo di scena (vitello → lancia → mano destra perduta → duello con la sinistra → Sallak/Çollak → titolo Behu/Aga). Il testo attuale del .docx resta come materiale da cui attingere, non come base obbligata.
+
+#### Scaletta proposta (da approvare)
+**Prologo.** Ermal bambino sente dal nonno solo un frammento: «la mano sallake» di Halil. Il nonno non racconta mai la storia per intero. Anni dopo, con il padre, trova il libro sotto l'asse del pavimento, e lì la storia c'è tutta. Il finale della leggenda non viene detto.
+
+**Parte prima — Il ragazzo**
+1. Halil bambino a Leshtej. Piccoli indizi ambigui (la madre che gli sposta il cucchiaio, il fabbro che sorride). I vicini, gente simpatica e furba, e il loro figlio, amico di Halil.
+2. Il consiglio sceglie Halil come ostaggio per il sultano. Il coltello del padre. La partenza.
+
+**Parte seconda — La corte (Edirne)**
+3. L'arrivo e la solitudine della prima notte.
+4. Hasan Agha: «in pubblico, sempre la destra». Non spiega perché.
+5. Allenamenti di notte, raccontati senza dire con quale mano.
+6. Le prime battaglie: Halil diventa un guerriero famoso con la spada. Il nemico (da definire) entra in scena.
+7. Il congedo e la ricompensa: terre vicino a Kavajë.
+
+**Parte terza — Il ritorno**
+8. Il ritorno. Halil è amato e ha molte terre. Chi lo vuole morto (da definire).
+9. Il vitello: lo salva reggendolo con il mignolo della destra. Qualcuno guarda.
+10. L'agguato con la lancia: perde la mano destra. Lo danno per finito, e il nemico punta alle sue terre.
+11. La guarigione. Di notte, di nascosto, qualcosa che il lettore intuisce appena.
+12. Il duello in piazza: la sinistra. «Sallak.» Recupera le terre.
+13. Il titolo Behu, il messaggero porta a porta, l'inganno dei vicini: Halil diventa Aga.
+
+**Epilogo.** Si torna a Ermal: ora sa cosa voleva dire il nonno con «la mano sallake».
+
+### 2026-09-26 — I vicini non sono rivali
+I vicini che si prendono il titolo Behu **non sono nemici né rivali** di Halil. Lo scambio è solo **un tocco di furbizia**, quasi comico, senza cattiveria. Nel capitolo finale deve far sorridere, non indignare. La scaletta è stata corretta di conseguenza: il nemico che organizza l'agguato con la lancia e poi lo sfida a duello è **un'altra persona, ancora da definire**.
+
+### 2026-09-26 — Il nemico: i turchi vogliono le terre senza versare sangue
+Idea dell'autore: i turchi vogliono prendere le terre di Halil. Mandano qualcuno a capire chi è **il più forte** del posto, per sfidarlo a **duello** e prendersi le terre **senza versare sangue**.
+
+#### Ricerca storica (contesto)
+- Nei primi decenni del Quattrocento l'Albania non è uno Stato, ma un mosaico di casate: i **Thopia** (Krujë, Durrës, cioè la zona di Kavajë), i **Muzaka** (Berat e la pianura), gli **Arianiti** (sud), i **Dukagjini** (nord), i **Kastrioti** (Mat, Dibra).
+- **1431–32**: gli ottomani censiscono il **Sanxhaku i Arvanidit** e lo dividono in 335 **timar**, di due o tre villaggi ciascuno, assegnati a **sipahi** (anche locali, anche cristiani).
+- **1432–1436**: una rivolta albanese, perché i nobili locali vengono sostituiti da feudatari ottomani. Comincia proprio nell'**Albania centrale**, dove **Andrea Thopia** sconfigge un piccolo reparto turco. **Gjergj Arianiti**, ostaggio alla corte ottomana, fugge per guidarla. Viene domata nel 1436.
+- **Skanderbeg** (Gjergj Kastrioti, 1405–1468): ostaggio a corte da ragazzo, poi ufficiale ottomano ("Iskender Bey"). Nel **1443** diserta e solleva Krujë, e nel 1444 nasce la **Lega di Lezhë**. Resiste fino alla morte (1468). Krujë cade nel 1478.
+- **Durrës** resta veneziana fino al **1501**: la pianura di Kavajë è una **terra di confine** tra ottomani, albanesi e Venezia.
+- **I duelli tra campioni** erano un'usanza reale in queste guerre: Skanderbeg sfida Ibrahim a Polog e lo uccide; prima di una battaglia il cavaliere Pal Manasi decapita il campione turco Kragoz; a Oranik (1456) Moisi sfida Skanderbeg ma poi fugge.
+- Fonti: pagine Wikipedia su "Albanian revolt of 1432–1436", "Andrea II Thopia", "Sanjak of Albania", "Skanderbeg", "Battle of Polog", "Battle of Oranik (1456)".
+
+#### Perché l'idea regge
+- In una terra di confine i turchi non vogliono una guerra aperta, che spingerebbe la gente verso Skanderbeg o verso Venezia. Un duello "legale" con il più forte del posto è un modo per prendersi le terre senza sollevare il villaggio.
+- Il loro inviato osserva, vede il vitello retto con il mignolo della destra e riferisce che la mano forte è la destra.
+- **Possibile svolta:** il duello doveva essere "senza sangue", ma l'inviato (o il campione) non vuole rischiare. Fa tendere l'agguato con la lancia **prima** del duello, così la vittoria è sicura. L'ipocrisia del "senza versare sangue" diventa il cuore del tradimento.
+- Dopo la sconfitta del loro campione, gli ottomani fanno una scelta pragmatica: invece di combattere Halil **se lo fanno amico** e gli danno un titolo (Behu). Era una pratica reale, perché gli ottomani inglobavano i notabili locali nel sistema dei timar. Qui si innesta la furbizia dei vicini.
+- Parallelo forte: **anche Skanderbeg e Arianiti furono ostaggi a corte da ragazzi**. La parte di Halil ostaggio a corte è quindi del tutto verosimile.
+
+### 2026-09-26 — Il prologo non piace
+All'autore non piace il prologo proposto (il nonno, «capirai quando sarai grande», il libro sotto il pavimento). Da decidere se togliere del tutto il prologo o farne uno diverso.
+
+### 2026-09-26 — Il nonno e il prologo (ricordo vero)
+Il prologo si tiene. Il nonno parlava davvero a Ermal della **mano "sallake"**, ma non gli ha mai raccontato la storia per bene: la storia completa Ermal l'ha trovata nel **libro**. La frase «capirai quando sarai grande» viene **tolta** (nel CONTESTO c'era, ma non corrisponde a un ricordo reale). La scaletta è stata corretta.
+
+### 2026-09-26 — I conti sull'epoca: Ermal è l'8ª generazione
+Linea: Halil → Murat → Abdyl → Isuf → Behxhed → Agim → Ilir → Ermal. Sono **7 passaggi** da Halil a Ermal.
+Con 30–35 anni a generazione, e Ermal nato intorno al 1990 (da confermare): **Halil nasce circa tra il 1745 e il 1780**, ed è adulto e attivo **circa tra il 1770 e il 1810**. Behxhed nasce intorno al 1900, e questo è coerente con gli Halilaga citati nel libro per le guerre balcaniche del 1912–13.
+**Conseguenza:** il 1431, Murad II e Skanderbeg sono **troppo presto**: servirebbero 75–80 anni a generazione. L'epoca giusta è la **fine del Settecento**.
+
+#### Il contesto di fine Settecento (ricerca)
+- L'impero ottomano è in declino e l'Albania è in mano a grandi **pascià locali**: i **Bushati** a Shkodër (**Kara Mahmud Pasha**, 1775–1796), **Ahmet Kurt Pasha** e poi il Pashalik di **Berat** (dal 1774), **Ali Pasha di Tepelena** a Giannina (dal 1788).
+- **L'Albania centrale è contesa**: la famiglia **Alltuni** domina la kaza di **Kavajë**, i **Bargjini** Tirana e i **Toptani** Krujë. Tra alleanze e scontri, tutti puntano al **porto di Durrës**. Kara Mahmud scende con 6.000 uomini, **prende Kavajë** e ci mette un governatore fantoccio.
+- I titoli **Aga** e **Bej** sono normalissimi in quest'epoca.
+- Esistono il **cannocchiale** (quindi l'idea originale del "binocolo" torna possibile) e il cannone.
+- Molti albanesi combattono come soldati negli eserciti ottomani (per esempio nelle guerre russo-turche del 1768–74 e 1787–92): Halil può essersi fatto le ossa lì.
+- Fonti: Wikipedia, "Albanian Pashaliks", "Kara Mahmud Pasha", "Pashalik of Berat", "Sanjak of Durrës", "Ahmet Kurt Pasha".
+
+#### Come si adatta la trama
+- "I turchi" che vogliono le terre possono essere gli uomini di un **pascià** (per esempio Berat o Bushati) che si allarga su Kavajë. Un duello con il più forte del posto costa meno di una guerra.
+- Il titolo **Behu** può arrivare "da Istanbul", cioè dalla Porta, o dal pascià.
+- La parte "ostaggio alla corte del sultano" è meno tipica di quest'epoca. In alternativa Halil parte da ragazzo come **soldato** al servizio di un pascià o dell'esercito ottomano.
+
+### 2026-09-26 — Data di Halil fissata
+Ermal è nato nel **1997**. Con 7 passaggi da 30–35 anni, Halil nasce circa tra il 1752 e il 1787.
+**Scelta di lavoro:** Halil nasce **intorno al 1770**. Parte da ragazzo verso il 1780–85, torna verso il 1790, e **l'agguato e il duello cadono intorno al 1795–1800**. Negli stessi anni muore Kara Mahmud Bushati (1796), Ali Pascià di Tepelena è in piena ascesa e Berat e Scutari si contendono l'Albania centrale: momento ideale per un pascià che vuole le terre di Kavajë.
+
+### 2026-09-26 — Gli anni lontano: soldato nell'esercito ottomano
+Halil parte come **soldato nell'esercito ottomano** e combatte nella **guerra russo-turca del 1787–1792**. Nato intorno al 1770, ci arriva a circa 17 anni. Le tappe storiche disponibili sono l'assedio di Ochakov (1788), Focșani e Rymnik (1789, sconfitte ottomane contro Suvorov), l'assalto russo a **Izmail** (dicembre 1790, un massacro), Măcin (1791) e la pace di Iași (1792). Rientra al villaggio verso il 1792–93, a poco più di vent'anni.
+Perché in pubblico usa la destra: nell'esercito, in formazione, si combatte tutti con la destra, e un mancino viene "corretto". Lui obbedisce in pubblico e di nascosto non perde la sinistra. Questo prepara l'errore dei turchi senza rivelare nulla al lettore.
+(I dettagli sulle battaglie vanno verificati prima di scrivere le scene.)
+
+### 2026-09-26 — Perché parte: arruolato a forza
+Il pascià chiede uomini al villaggio per la guerra contro la Russia, e **tocca a Halil**. Non è una scelta sua: così nella prima parte si recupera il cuore emotivo della "scelta del consiglio" del vecchio cap. 1 (il villaggio che deve dare qualcuno, il padre, la partenza), aggiornato al 1787.
+
+### 2026-09-26 — Lunghezza: romanzo lungo
+Obiettivo: **più di 350 pagine** (circa 100.000 parole o più). C'è quindi spazio per raccontare per intero la guerra russo-turca, la vita al villaggio prima e dopo, la guarigione e il duello. La scaletta va ampliata, probabilmente a 30–40 capitoli.
+
+### 2026-09-26 — Lunghezza: cambio idea, romanzo breve
+L'autore ha cambiato idea: il romanzo sarà **breve, circa 150 pagine** (40.000–45.000 parole). Questa scelta **sostituisce** quella del "romanzo lungo". Restano circa 15–20 capitoli: la guerra va raccontata per scene scelte, non per intero.
+
+### 2026-09-26 — Storia d'amore: una ragazza del villaggio
+Sì a una storia d'amore **al villaggio**: una ragazza che Halil lascia quando parte, nel 1787, e ritrova al ritorno. Diventa la moglie, la madre di Murat. Il vecchio testo la chiamava Age, e compariva solo nell'ultimo capitolo. Ora va presentata **fin dall'inizio**.
+Idea: può essere lei una delle poche a **intuire** la mano sinistra, per esempio notando un callo o un gesto. È un indizio per il lettore, e dopo l'agguato è lei a stargli accanto durante la guarigione.
+
+### 2026-09-26 — Niente "Age"
+Il nome **Age** si scarta perché si confonde con il titolo **Aga**. Serve un altro nome per la ragazza.
+
+### 2026-09-26 — La ragazza si chiama Hatixhe
+
+## Scaletta v2 (fa sintesi delle decisioni del 26/09; sostituisce la "Scaletta proposta")
+Romanzo breve, circa 150 pagine. Fine Settecento. Il lettore **intuisce** la mano sinistra ma ne ha la conferma solo nel duello.
+
+**Prologo — oggi.** Ermal bambino sente il nonno parlare della «mano sallake» di Halil, solo quel frammento. Anni dopo, con il padre Ilir, trova nella casa abbandonata il libro scritto a mano sotto l'asse del pavimento.
+
+**Parte prima — Leshtej, 1787**
+1. Halil ha 17 anni. Vita al villaggio, il padre Rexhep, la madre, Hatixhe. Primi indizi ambigui (la madre e il cucchiaio, il fabbro che sorride).
+2. Il pascià chiede uomini per la guerra contro la Russia, e tocca a Halil. Il coltello del padre. L'addio a Hatixhe.
+
+**Parte seconda — La guerra, 1787–1792**
+3. La marcia verso il Danubio. Nei ranghi si combatte tutti con la destra, e Halil obbedisce. Di notte, qualcosa che il lettore non vede bene.
+4. La prima battaglia (1789). Halil sopravvive e si fa un nome con la spada.
+5. Izmail, dicembre 1790: l'inferno. Halil salva dei compagni. Un gesto ambiguo.
+6. La pace (1792) e il lungo ritorno.
+
+**Parte terza — Il ritorno, 1792–1799**
+7. Il ritorno a casa. Hatixhe, il matrimonio, le terre. Halil è amato e forte. I vicini, simpatici e furbi.
+8. L'Albania centrale è contesa. Un pascià vuole le terre di Kavajë senza una guerra: sfiderà il più forte del posto. Manda un osservatore.
+9. Il vitello: Halil lo regge con il mignolo della destra. L'osservatore lo guarda con il cannocchiale.
+10. «La sua mano forte è la destra.» Il campione non vuole rischiare, e il "senza sangue" diventa un agguato.
+11. La lancia: Halil perde la mano destra. Lo credono finito.
+12. La guarigione, con Hatixhe accanto. Le notti. (Ambiguo.)
+13. Arriva la sfida: il duello per le terre. Il villaggio è disperato e Halil accetta.
+14. Il duello: la sinistra. «Sallak!» Recupera le terre. Da qui il nome **Çollak**.
+15. Il titolo Behu, il messaggero che bussa porta a porta, i vicini furbi: Halil diventa **Aga**. Deve far sorridere. Nasce Murat.
+
+**Epilogo — oggi.** Ermal ora sa cosa voleva dire il nonno.
+
+Da decidere più avanti: il titolo del romanzo, il nome del pascià e del suo campione, il ruolo del coltello del padre nel duello.
+
+### 2026-09-26 — Scaletta v2 approvata, si comincia a scrivere
+L'autore approva la scaletta v2 (la rileggerà e, se serve, la cambieremo). **Un file per capitolo** in `romanzo/`, con lo script `crea_docx.py` che li unisce in `Romanzo_Halil.docx`.
+Scritto il **prologo** (bozza 1). Scelte fatte:
+- «sallake» **non viene tradotto**: il lettore italiano non sa che vuol dire "mancina", e il significato arriva solo nel duello;
+- nel libro trovato sotto il pavimento, gli ultimi nomi dell'albero sono scritti **con la grafia del nonno**. Dettaglio inventato, **approvato dall'autore**;
+- i dettagli sul nonno (voce roca, ha riso e ha cambiato discorso) sono generici: vanno sostituiti con ricordi veri.
+
+### 2026-09-26 — Capitolo 1 scritto (bozza 1)
+Fine agosto 1787: la trebbiatura, la cena, la bottega di Zylo, la fonte, il cavaliere. Introduce **Shaban** (il vicino simpatico e furbo, quello dei cavalli "prestati per un pomeriggio") e suo figlio **Ramadan**, amico d'infanzia di Halil e un anno più grande. Sono loro i futuri "ladri" del titolo Behu, e la loro furbizia viene seminata qui con leggerezza. **Hatixhe** è figlia di Zenel, anziano del consiglio. Indizi sulla mano: il cucchiaio, Zylo che sorride («Tuo nonno batteva così»), Hatixhe che guarda le mani di Halil e lui che ne nasconde una. Nessuna mano viene mai nominata.
+Fatto storico: la Porta dichiara guerra alla Russia nell'agosto 1787. A Leshtej tocca dare quattro uomini.
+
+### 2026-09-26 — Prima stesura completa (bozza 1)
+Scritti tutti i capitoli, dal prologo all'epilogo, in `romanzo/`. Totale: circa **22.500 parole**, cioè circa 80–90 pagine in formato libro. L'obiettivo di circa 150 pagine richiede quindi di **ampliare** in revisione, capitolo per capitolo.
+
+Scelte fatte scrivendo (da confermare con l'autore):
+- **Personaggi nuovi:** Qamil (muore a Rymnik), Dervish (muore a Izmail), il bylykbash Sulejman (muore a Izmail), Selim Efendi (lo scrivano del pascià, con il cannocchiale), Kara Ömer (il campione di Konya), Hysen il Nero (il lanciere della Mallakastra). **Il pascià resta senza nome.**
+- **Ramadan** è l'amico e il compagno di guerra salvato a Izmail. Vede "qualcosa" nel fumo e tiene il segreto («c'era il fumo»). Al duello ride.
+- **Il coltello del nonno** è affilato "dalla parte sbagliata", cioè giusta per un mancino. Le tacche sono i morti da ricordare: Halil ne aggiunge per Qamil, Dervish, Sulejman, Izmail e infine per la mano. Chiude il duello. Alla fine finisce nella culla di Murat.
+- **Il sussurro di Zylo** prima dell'amputazione, rivelato solo dopo il duello: «Adesso nessuno ti dirà più quale mano usare».
+- **Il nome del villaggio:** i soldati turchi gridano *çolak* (in turco "monco", "con il braccio menomato"), il villaggio grida *sallak* ("mancino"). Le due parole si fondono in **Çollak**.
+- **Behu e Aga:** la Porta concede due titoli ai due veterani di Izmail, Behu a chi ha più terra e Aga all'altro. Shaban convince il çavuş che la terra più grande è di Ramadan, e sul registro i nomi si scambiano. Halil ride.
+- **Hatixhe** sa tutto dalla fonte in poi. La mano che stringe alla partenza è quella che torna «intera».
+- **Da verificare:** nell'epilogo Ermal dice che il libro trovato riporta la guerra, la mano, il duello e il titolo, e che spiega la parola *sallak*. Va controllato che sia vero per il libro reale. Inventati anche il cartello del villaggio e il vecchio in piazza.
