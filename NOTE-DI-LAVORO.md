@@ -304,3 +304,7 @@ Scritto il **prologo** (bozza 1). Scelte fatte:
 - «sallake» **non viene tradotto**: il lettore italiano non sa che vuol dire "mancina", e il significato arriva solo nel duello;
 - nel libro trovato sotto il pavimento, gli ultimi nomi dell'albero sono scritti **con la grafia del nonno**. Dettaglio inventato, **approvato dall'autore**;
 - i dettagli sul nonno (voce roca, ha riso e ha cambiato discorso) sono generici: vanno sostituiti con ricordi veri.
+
+### 2026-09-26 — Capitolo 1 scritto (bozza 1)
+Fine agosto 1787: la trebbiatura, la cena, la bottega di Zylo, la fonte, il cavaliere. Introduce **Shaban** (il vicino simpatico e furbo, quello dei cavalli "prestati per un pomeriggio") e suo figlio **Ramadan**, amico d'infanzia di Halil e un anno più grande. Sono loro i futuri "ladri" del titolo Behu, e la loro furbizia viene seminata qui con leggerezza. **Hatixhe** è figlia di Zenel, anziano del consiglio. Indizi sulla mano: il cucchiaio, Zylo che sorride («Tuo nonno batteva così»), Hatixhe che guarda le mani di Halil e lui che ne nasconde una. Nessuna mano viene mai nominata.
+Fatto storico: la Porta dichiara guerra alla Russia nell'agosto 1787. A Leshtej tocca dare quattro uomini.
