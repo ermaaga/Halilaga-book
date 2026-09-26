@@ -258,3 +258,7 @@ Obiettivo: **più di 350 pagine** (circa 100.000 parole o più). C'è quindi spa
 
 ### 2026-09-26 — Lunghezza: cambio idea, romanzo breve
 L'autore ha cambiato idea: il romanzo sarà **breve, circa 150 pagine** (40.000–45.000 parole). Questa scelta **sostituisce** quella del "romanzo lungo". Restano circa 15–20 capitoli: la guerra va raccontata per scene scelte, non per intero.
+
+### 2026-09-26 — Storia d'amore: una ragazza del villaggio
+Sì a una storia d'amore **al villaggio**: una ragazza che Halil lascia quando parte, nel 1787, e ritrova al ritorno. Diventa la moglie, la madre di Murat. Il vecchio testo la chiamava Age, e compariva solo nell'ultimo capitolo. Ora va presentata **fin dall'inizio**.
+Idea: può essere lei una delle poche a **intuire** la mano sinistra, per esempio notando un callo o un gesto. È un indizio per il lettore, e dopo l'agguato è lei a stargli accanto durante la guarigione.
