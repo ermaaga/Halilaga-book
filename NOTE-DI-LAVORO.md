@@ -167,3 +167,30 @@ Conseguenze sul testo attuale (dove lo si dice apertamente fin dall'inizio):
 - il prologo non deve rivelare la leggenda per intero;
 - il **titolo** "Il Mancino del Sultano" lo rivela già in copertina: va deciso se tenerlo.
 Tecniche possibili per gli indizi: dettagli ambigui (la madre che gli sposta il cucchiaio nell'altra mano, il fabbro che lo guarda in modo strano), allenamenti notturni raccontati senza dire con quale mano, calli o cicatrici sulla mano "sbagliata", Hasan Agha che dice «in pubblico, sempre la destra» senza spiegare perché.
+
+### 2026-09-26 — Si riparte da zero
+L'autore chiede di ricostruire la storia **da zero**, attorno al colpo di scena (vitello → lancia → mano destra perduta → duello con la sinistra → Sallak/Çollak → titolo Behu/Aga). Il testo attuale del .docx resta come materiale da cui attingere, non come base obbligata.
+
+#### Scaletta proposta (da approvare)
+**Prologo.** Ermal bambino, il nonno racconta di Halil ma si interrompe sempre: «capirai quando sarai grande». Anni dopo, con il padre, il libro sotto l'asse del pavimento. Il finale della leggenda non viene detto.
+
+**Parte prima — Il ragazzo**
+1. Halil bambino a Leshtej. Piccoli indizi ambigui (la madre che gli sposta il cucchiaio, il fabbro che sorride). I vicini e il loro figlio, coetaneo e rivale.
+2. Il consiglio sceglie Halil come ostaggio per il sultano. Il coltello del padre. La partenza.
+
+**Parte seconda — La corte (Edirne)**
+3. L'arrivo e la solitudine della prima notte.
+4. Hasan Agha: «in pubblico, sempre la destra». Non spiega perché.
+5. Allenamenti di notte, raccontati senza dire con quale mano.
+6. Le prime battaglie: Halil diventa un guerriero famoso con la spada. Anche il figlio dei vicini è soldato, e la rivalità cresce.
+7. Il congedo e la ricompensa: terre vicino a Kavajë.
+
+**Parte terza — Il ritorno**
+8. Il ritorno. Halil è amato e ha più terre dei vicini. L'invidia.
+9. Il vitello: lo salva reggendolo con il mignolo della destra. Qualcuno guarda.
+10. L'agguato con la lancia: perde la mano destra. Lo danno per finito, e i vicini puntano alle sue terre.
+11. La guarigione. Di notte, di nascosto, qualcosa che il lettore intuisce appena.
+12. Il duello in piazza: la sinistra. «Sallak.» Recupera le terre.
+13. Il titolo Behu, il messaggero porta a porta, l'inganno dei vicini: Halil diventa Aga.
+
+**Epilogo.** Ermal adulto capisce finalmente il «capirai quando sarai grande» del nonno.
