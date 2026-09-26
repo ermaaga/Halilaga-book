@@ -6,7 +6,9 @@ Prima di fare qualsiasi cosa, leggi:
 1. `CONTESTO_Il_Mancino_del_Sultano.md`: fonti, trama approvata, preferenze dell'autore. È il riferimento.
 2. `NOTE-DI-LAVORO.md`: analisi del testo attuale, confronto con la trama approvata, domande aperte.
 
-- `manoscritto/cap-NNN.md`: un file per capitolo (`cap-000` è il prologo), estratto da `Il_Mancino_del_Sultano.docx`.
+- `romanzo/NN.md`: **la nuova stesura** (dal 26/09/2026), un file per capitolo (`00-prologo.md` … `16-epilogo.md`), secondo la "Scaletta v2" in `NOTE-DI-LAVORO.md`. I capitoli non ancora scritti contengono solo il titolo e un commento `<!-- SCALETTA: ... -->`.
+- `python3 crea_docx.py` unisce i capitoli già scritti in `Romanzo_Halil.docx` (`--bozze` include anche quelli vuoti). Richiede `pip install python-docx`. Rigenera il Word dopo ogni capitolo nuovo o modificato e fai commit anche del .docx.
+- `manoscritto/cap-NNN.md`: la **vecchia versione** (estratta da `Il_Mancino_del_Sultano.docx`). Serve solo come materiale da cui attingere.
 - `HalilagaBook.pdf`: libro fonte in albanese (foto). È già stato letto: non rileggerlo se non serve.
 - Non riscrivere capitoli già approvati senza indicazione esplicita dell'autore.
 
