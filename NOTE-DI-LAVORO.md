@@ -321,3 +321,32 @@ Scelte fatte scrivendo (da confermare con l'autore):
 - **Behu e Aga:** la Porta concede due titoli ai due veterani di Izmail, Behu a chi ha più terra e Aga all'altro. Shaban convince il çavuş che la terra più grande è di Ramadan, e sul registro i nomi si scambiano. Halil ride.
 - **Hatixhe** sa tutto dalla fonte in poi. La mano che stringe alla partenza è quella che torna «intera».
 - **Da verificare:** nell'epilogo Ermal dice che il libro trovato riporta la guerra, la mano, il duello e il titolo, e che spiega la parola *sallak*. Va controllato che sia vero per il libro reale. Inventati anche il cartello del villaggio e il vecchio in piazza.
+
+### 2026-09-27 — Traduzione albanese
+Su richiesta dell'autore, tutta la prima stesura è tradotta in albanese standard in `romanzo-sq/`, con il Word `Romanzo_Halil_sq.docx` (`python3 crea_docx.py --sq`). Titolo provvisorio: *Mëngjarashi i Sulltanit*. "Sallak" resta com'è; "çolak" diventa "sakat" (per la persona) e "cung" (per il moncherino). Da far rileggere all'autore, che è madrelingua: alcune scelte lessicali (per esempio "dylbi" per il cannocchiale, "bylykbash", "çaush") vanno confermate.
+
+### 2026-09-27 — Nuovo prologo, dal racconto vero dell'autore
+Il prologo precedente non piaceva come inizio. Ecco i fatti veri che l'autore ha raccontato, e che ora sono la base del prologo (bozza 2):
+- Ermal è arrivato in Italia **da bambino, nei primi anni Duemila**. Nessuno aveva quel cognome e lo sbagliavano tutti; a un certo punto se ne **vergognava**. La formula di sempre: «Halilaga con l'H, Ermal senza», e ancora oggi lo sbagliano.
+- Crescendo, la curiosità di sapere cosa volesse dire il cognome.
+- I nonni erano in **Albania**, dove andava **una volta all'anno**. La sera **la luce se ne andava** (e tornava il giorno dopo), e ci si sedeva **davanti al camino** a raccontare storie e leggende. Lì Ermal chiese al nonno il significato del cognome: **nessuno dei nipoti glielo aveva mai chiesto**.
+- Il nonno raccontò che la storia gliel'aveva raccontata **suo nonno** (Isuf, secondo l'albero), **soltanto a lui e a un altro nipote**. Quel cugino è **chi l'ha messa per iscritto**: il libro trovato sotto il pavimento.
+
+Conseguenze:
+- **Scartato** il dettaglio (prima approvato) degli ultimi nomi dell'albero scritti con la grafia del nonno: il quaderno è del cugino.
+- Nel prologo il nonno racconta in un albanese stretto di villaggio. Ermal, cresciuto in Italia, capisce a metà e **non osa chiedere** cosa voglia dire «sallake»: la vergogna del cognome, rovesciata. Così il lettore non sa ancora cosa significhi.
+- Epilogo adattato: il quaderno è del cugino del nonno; il nonno aveva aspettato tutta la vita quella domanda.
+- **Inventati per la scena** (da confermare): l'appello a scuola con «Alilaga?», le storpiature del cognome, il modulo con «Halil Aga» staccato.
+
+### 2026-09-27 — Conferme sull'albero
+Confermati dall'autore: il nonno è **Agim**, il padre è **Ilir (detto anche Lirim)**. Albero dal CONTESTO: Halil → Murat → Abdyl → Isuf → Behxhed → Agim → Ilir → Ermal. Quindi il nonno di Agim, che raccontò la storia a lui e al cugino, è **Isuf** (come scritto nel prologo).
+
+### 2026-09-27 — Etimologia: sallak viene dal turco *solak*
+Dall'autore: *sallak* (femminile *sallake*) vuol dire "mancino" ed è un prestito dal turco ottomano **solak** ("mancino"). **Sono i turchi a dare a Halil quel nome**, per identificarlo. Da lì il villaggio prende il nome **Çollak = sallak**, e dopo quella battaglia prodigiosa gli arriva dalla Turchia il titolo **Aga**.
+
+Modifiche fatte:
+- **Cap. 14:** non è più Zylo a inventare la parola, e non c'è più la fusione *çolak* (monco) + *sallak*. Durante il duello un vecchio soldato del pascià, che ha servito a Istanbul, grida «**Solak!**» e lo indica. Gli altri soldati lo ripetono: gli danno un nome per poterlo "tenere fermo". Zylo ripete la parola alla maniera del villaggio, «Sallak», e la folla la riprende. Kara Ömer, sconfitto, dice «Solak». Chiusura: nei registri turchi c'è scritto *solak*, e in bocca albanese la parola diventa **Çollak**.
+- **Cap. 15:** la storia arriva alla Porta con il nome *Solak Halil*.
+- **Epilogo:** il villaggio prende il nome da una parola turca, *solak*, diventata *sallak*.
+- Anche la traduzione albanese è aggiornata.
+- **Titolo (deciso il 27/09):** resta lo **scambio Behu → Aga** fatto da Shaban (cap. 15), così com'è.
