@@ -321,3 +321,6 @@ Scelte fatte scrivendo (da confermare con l'autore):
 - **Behu e Aga:** la Porta concede due titoli ai due veterani di Izmail, Behu a chi ha più terra e Aga all'altro. Shaban convince il çavuş che la terra più grande è di Ramadan, e sul registro i nomi si scambiano. Halil ride.
 - **Hatixhe** sa tutto dalla fonte in poi. La mano che stringe alla partenza è quella che torna «intera».
 - **Da verificare:** nell'epilogo Ermal dice che il libro trovato riporta la guerra, la mano, il duello e il titolo, e che spiega la parola *sallak*. Va controllato che sia vero per il libro reale. Inventati anche il cartello del villaggio e il vecchio in piazza.
+
+### 2026-09-27 — Traduzione albanese
+Su richiesta dell'autore, tutta la prima stesura è tradotta in albanese standard in `romanzo-sq/`, con il Word `Romanzo_Halil_sq.docx` (`python3 crea_docx.py --sq`). Titolo provvisorio: *Mëngjarashi i Sulltanit*. "Sallak" resta com'è; "çolak" diventa "sakat" (per la persona) e "cung" (per il moncherino). Da far rileggere all'autore, che è madrelingua: alcune scelte lessicali (per esempio "dylbi" per il cannocchiale, "bylykbash", "çaush") vanno confermate.
