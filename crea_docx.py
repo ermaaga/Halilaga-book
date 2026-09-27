@@ -4,6 +4,7 @@
 Uso:
     python3 crea_docx.py            # solo i capitoli già scritti
     python3 crea_docx.py --bozze    # include anche i capitoli vuoti (solo titolo)
+    python3 crea_docx.py --sq       # versione albanese (romanzo-sq/)
 
 Richiede python-docx (pip install python-docx).
 
@@ -26,18 +27,35 @@ from docx.oxml.ns import qn
 from docx.shared import Cm, Pt
 
 RADICE = Path(__file__).parent
-CARTELLA = RADICE / "romanzo"
-USCITA = RADICE / "Romanzo_Halil.docx"
-
-TITOLO = "Il Mancino del Sultano"  # provvisorio: il titolo è ancora da decidere
-SOTTOTITOLO = "La leggenda di Halil Halilaga"
 AUTORE = "Ermal Halilaga"
 
-# Pagina che introduce ogni parte, prima del capitolo indicato.
-PARTI = {
-    1: ("Parte prima", "Leshtej, 1787"),
-    3: ("Parte seconda", "La guerra, 1787–1792"),
-    7: ("Parte terza", "Il ritorno, 1792–1799"),
+# Titoli provvisori: il titolo definitivo è ancora da decidere.
+# PARTI: pagina che introduce ogni parte, prima del capitolo indicato.
+LINGUE = {
+    "it": {
+        "cartella": "romanzo",
+        "uscita": "Romanzo_Halil.docx",
+        "titolo": "Il Mancino del Sultano",
+        "sottotitolo": "La leggenda di Halil Halilaga",
+        "da_scrivere": "[da scrivere]",
+        "parti": {
+            1: ("Parte prima", "Leshtej, 1787"),
+            3: ("Parte seconda", "La guerra, 1787–1792"),
+            7: ("Parte terza", "Il ritorno, 1792–1799"),
+        },
+    },
+    "sq": {
+        "cartella": "romanzo-sq",
+        "uscita": "Romanzo_Halil_sq.docx",
+        "titolo": "Mëngjarashi i Sulltanit",
+        "sottotitolo": "Legjenda e Halil Halilagës",
+        "da_scrivere": "[për t'u shkruar]",
+        "parti": {
+            1: ("Pjesa e parë", "Leshtej, 1787"),
+            3: ("Pjesa e dytë", "Lufta, 1787–1792"),
+            7: ("Pjesa e tretë", "Kthimi, 1792–1799"),
+        },
+    },
 }
 
 FONT = "Garamond"
@@ -99,6 +117,8 @@ def nuova_pagina(doc):
 
 def main():
     bozze = "--bozze" in sys.argv
+    L = LINGUE["sq" if "--sq" in sys.argv else "it"]
+    cartella, uscita = RADICE / L["cartella"], RADICE / L["uscita"]
     doc = Document()
 
     # Formato libro (A5) e stile del testo
@@ -117,11 +137,11 @@ def main():
     pf.line_spacing = 1.2
 
     # Frontespizio
-    centrato(doc, TITOLO, 24, prima=150, dopo=12, grassetto=True)
-    centrato(doc, SOTTOTITOLO, 13, dopo=60, corsivo=True)
+    centrato(doc, L["titolo"], 24, prima=150, dopo=12, grassetto=True)
+    centrato(doc, L["sottotitolo"], 13, dopo=60, corsivo=True)
     centrato(doc, AUTORE, 12)
 
-    capitoli = sorted(CARTELLA.glob("*.md"))
+    capitoli = sorted(cartella.glob("*.md"))
     inclusi = 0
     for path in capitoli:
         titolo, blocchi = leggi_capitolo(path)
@@ -129,9 +149,9 @@ def main():
             continue
         n = int(path.stem[:2])
 
-        if n in PARTI:
+        if n in L["parti"]:
             nuova_pagina(doc)
-            parte, sottotitolo = PARTI[n]
+            parte, sottotitolo = L["parti"][n]
             centrato(doc, parte, 16, prima=150, dopo=8, grassetto=True)
             centrato(doc, sottotitolo, 12, corsivo=True)
 
@@ -155,12 +175,12 @@ def main():
                 primo = False
             aggiungi_testo(par, " ".join(b.splitlines()))
         if not blocchi:
-            centrato(doc, "[da scrivere]", 11, corsivo=True)
+            centrato(doc, L["da_scrivere"], 11, corsivo=True)
         inclusi += 1
 
     numero_pagina(doc.sections[0])
-    doc.save(USCITA)
-    print(f"Creato {USCITA.name}: {inclusi} capitoli su {len(capitoli)}.")
+    doc.save(uscita)
+    print(f"Creato {uscita.name}: {inclusi} capitoli su {len(capitoli)}.")
 
 
 if __name__ == "__main__":
