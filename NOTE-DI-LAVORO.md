@@ -349,4 +349,4 @@ Modifiche fatte:
 - **Cap. 15:** la storia arriva alla Porta con il nome *Solak Halil*.
 - **Epilogo:** il villaggio prende il nome da una parola turca, *solak*, diventata *sallak*.
 - Anche la traduzione albanese è aggiornata.
-- **Da chiarire:** il titolo arriva come **Aga** direttamente, oppure resta lo scambio **Behu → Aga** fatto dai vicini (cap. 15)?
+- **Titolo (deciso il 27/09):** resta lo **scambio Behu → Aga** fatto da Shaban (cap. 15), così com'è.
