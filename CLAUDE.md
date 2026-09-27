@@ -9,6 +9,7 @@ Prima di fare qualsiasi cosa, leggi:
 - `romanzo/NN.md`: **la nuova stesura** (dal 26/09/2026), un file per capitolo (`00-prologo.md` … `16-epilogo.md`), secondo la "Scaletta v2" in `NOTE-DI-LAVORO.md`. I capitoli non ancora scritti contengono solo il titolo e un commento `<!-- SCALETTA: ... -->`.
 - `python3 crea_docx.py` unisce i capitoli già scritti in `Romanzo_Halil.docx` (`--bozze` include anche quelli vuoti). Richiede `pip install python-docx`. Rigenera il Word dopo ogni capitolo nuovo o modificato e fai commit anche del .docx.
 - `romanzo-sq/NN.md`: **traduzione albanese** della nuova stesura, stessi nomi di file. `python3 crea_docx.py --sq` crea `Romanzo_Halil_sq.docx`. Quando si modifica un capitolo italiano, va aggiornata anche la traduzione.
+- `python3 crea_audiolibro.py` (`--sq` per l'albanese) crea l'audiolibro MP3 in `audiolibro/it|sq/`, un file per capitolo, con le voci di edge-tts (`pip install edge-tts`, serve internet; dall'ambiente cloud il servizio è bloccato, quindi va lanciato sul computer dell'autore). `--prova` controlla il testo senza rete. Gli MP3 non vanno su git.
 - `manoscritto/cap-NNN.md`: la **vecchia versione** (estratta da `Il_Mancino_del_Sultano.docx`). Serve solo come materiale da cui attingere.
 - `HalilagaBook.pdf`: libro fonte in albanese (foto). È già stato letto: non rileggerlo se non serve.
 - Non riscrivere capitoli già approvati senza indicazione esplicita dell'autore.
