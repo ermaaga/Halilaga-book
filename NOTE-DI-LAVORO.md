@@ -340,3 +340,13 @@ Conseguenze:
 
 ### 2026-09-27 — Conferme sull'albero
 Confermati dall'autore: il nonno è **Agim**, il padre è **Ilir (detto anche Lirim)**. Albero dal CONTESTO: Halil → Murat → Abdyl → Isuf → Behxhed → Agim → Ilir → Ermal. Quindi il nonno di Agim, che raccontò la storia a lui e al cugino, è **Isuf** (come scritto nel prologo).
+
+### 2026-09-27 — Etimologia: sallak viene dal turco *solak*
+Dall'autore: *sallak* (femminile *sallake*) vuol dire "mancino" ed è un prestito dal turco ottomano **solak** ("mancino"). **Sono i turchi a dare a Halil quel nome**, per identificarlo. Da lì il villaggio prende il nome **Çollak = sallak**, e dopo quella battaglia prodigiosa gli arriva dalla Turchia il titolo **Aga**.
+
+Modifiche fatte:
+- **Cap. 14:** non è più Zylo a inventare la parola, e non c'è più la fusione *çolak* (monco) + *sallak*. Durante il duello un vecchio soldato del pascià, che ha servito a Istanbul, grida «**Solak!**» e lo indica. Gli altri soldati lo ripetono: gli danno un nome per poterlo "tenere fermo". Zylo ripete la parola alla maniera del villaggio, «Sallak», e la folla la riprende. Kara Ömer, sconfitto, dice «Solak». Chiusura: nei registri turchi c'è scritto *solak*, e in bocca albanese la parola diventa **Çollak**.
+- **Cap. 15:** la storia arriva alla Porta con il nome *Solak Halil*.
+- **Epilogo:** il villaggio prende il nome da una parola turca, *solak*, diventata *sallak*.
+- Anche la traduzione albanese è aggiornata.
+- **Da chiarire:** il titolo arriva come **Aga** direttamente, oppure resta lo scambio **Behu → Aga** fatto dai vicini (cap. 15)?

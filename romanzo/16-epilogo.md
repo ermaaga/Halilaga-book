@@ -19,7 +19,7 @@ Ho letto quella parola seduto al tavolo della cucina di mio padre, la sera che s
 
 Adesso lo so.
 
-La storia era tutta lì, in quella parola sola, e mio nonno me l'aveva data intera. Un uomo che perde la mano destra e vince con la sinistra. Un villaggio che prende il suo nome da un mancino e da un monco. Una famiglia che porta da più di duecento anni un titolo rubato da un vicino furbo. E un cognome che in Italia nessuno sa pronunciare, e che per anni mi ero vergognato di portare.
+La storia era tutta lì, in quella parola sola, e mio nonno me l'aveva data intera. Un uomo che perde la mano destra e vince con la sinistra. Un villaggio che prende il suo nome da una parola turca, *solak*, che i turchi gli gridarono contro per riconoscerlo, e che in bocca albanese è diventata *sallak*. Una famiglia che porta da più di duecento anni un titolo rubato da un vicino furbo. E un cognome che in Italia nessuno sa pronunciare, e che per anni mi ero vergognato di portare.
 
 Mio nonno aveva aspettato tutta la vita che qualcuno gli facesse quella domanda. Io ci avevo messo anni a capire la risposta.
 

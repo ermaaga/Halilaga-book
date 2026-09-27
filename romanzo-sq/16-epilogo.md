@@ -18,7 +18,7 @@ E lexova atë fjalë ulur në tryezën e kuzhinës së babait, mbrëmjen që u k
 
 Tani e di.
 
-Historia ishte e gjitha aty, në atë fjalë të vetme, dhe gjyshi im ma kishte dhënë të plotë. Një burrë që humb dorën e djathtë dhe fiton me të majtën. Një fshat që merr emrin nga një mëngjarash dhe nga një sakat. Një familje që mban prej më shumë se dyqind vjetësh një titull të vjedhur nga një fqinj dinak. Dhe një mbiemër që në Itali askush nuk di ta shqiptojë, dhe që për vite me radhë më kishte ardhur turp ta mbaja.
+Historia ishte e gjitha aty, në atë fjalë të vetme, dhe gjyshi im ma kishte dhënë të plotë. Një burrë që humb dorën e djathtë dhe fiton me të majtën. Një fshat që merr emrin nga një fjalë turke, *solak*, që turqit ia bërtitën për ta njohur, dhe që në gojë shqiptare u bë *sallak*. Një familje që mban prej më shumë se dyqind vjetësh një titull të vjedhur nga një fqinj dinak. Dhe një mbiemër që në Itali askush nuk di ta shqiptojë, dhe që për vite me radhë më kishte ardhur turp ta mbaja.
 
 Gjyshi im kishte pritur gjithë jetën që dikush t'i bënte atë pyetje. Mua m'u deshën vite për ta kuptuar përgjigjen.
 
