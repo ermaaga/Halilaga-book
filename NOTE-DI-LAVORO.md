@@ -324,3 +324,16 @@ Scelte fatte scrivendo (da confermare con l'autore):
 
 ### 2026-09-27 — Traduzione albanese
 Su richiesta dell'autore, tutta la prima stesura è tradotta in albanese standard in `romanzo-sq/`, con il Word `Romanzo_Halil_sq.docx` (`python3 crea_docx.py --sq`). Titolo provvisorio: *Mëngjarashi i Sulltanit*. "Sallak" resta com'è; "çolak" diventa "sakat" (per la persona) e "cung" (per il moncherino). Da far rileggere all'autore, che è madrelingua: alcune scelte lessicali (per esempio "dylbi" per il cannocchiale, "bylykbash", "çaush") vanno confermate.
+
+### 2026-09-27 — Nuovo prologo, dal racconto vero dell'autore
+Il prologo precedente non piaceva come inizio. Ecco i fatti veri che l'autore ha raccontato, e che ora sono la base del prologo (bozza 2):
+- Ermal è arrivato in Italia **da bambino, nei primi anni Duemila**. Nessuno aveva quel cognome e lo sbagliavano tutti; a un certo punto se ne **vergognava**. La formula di sempre: «Halilaga con l'H, Ermal senza», e ancora oggi lo sbagliano.
+- Crescendo, la curiosità di sapere cosa volesse dire il cognome.
+- I nonni erano in **Albania**, dove andava **una volta all'anno**. La sera **la luce se ne andava** (e tornava il giorno dopo), e ci si sedeva **davanti al camino** a raccontare storie e leggende. Lì Ermal chiese al nonno il significato del cognome: **nessuno dei nipoti glielo aveva mai chiesto**.
+- Il nonno raccontò che la storia gliel'aveva raccontata **suo nonno** (Isuf, secondo l'albero), **soltanto a lui e a un altro nipote**. Quel cugino è **chi l'ha messa per iscritto**: il libro trovato sotto il pavimento.
+
+Conseguenze:
+- **Scartato** il dettaglio (prima approvato) degli ultimi nomi dell'albero scritti con la grafia del nonno: il quaderno è del cugino.
+- Nel prologo il nonno racconta in un albanese stretto di villaggio. Ermal, cresciuto in Italia, capisce a metà e **non osa chiedere** cosa voglia dire «sallake»: la vergogna del cognome, rovesciata. Così il lettore non sa ancora cosa significhi.
+- Epilogo adattato: il quaderno è del cugino del nonno; il nonno aveva aspettato tutta la vita quella domanda.
+- **Inventati per la scena** (da confermare): l'appello a scuola con «Alilaga?», le storpiature del cognome, il modulo con «Halil Aga» staccato.

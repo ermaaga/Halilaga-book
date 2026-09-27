@@ -4,7 +4,7 @@
 
 Libri që gjetëm nën dysheme nuk i thoshte të gjitha këto.
 
-Thoshte shumë më pak. Disa faqe, disa rreshta të fshirë nga uji. Thoshte që Halili ishte nisur për një luftë të largët dhe ishte kthyer. Thoshte që i kishin prerë dorën e djathtë dhe që ai kishte fituar me të majtën. Thoshte që një titull kishte ardhur nga Stambolli dhe që nga një mashtrim, ose nga një shaka, ishte bërë mbiemri ynë. Pjesën tjetër m'u desh ta përfytyroj vetë, rresht pas rreshti, natë pas nate, duke u përpjekur të mos i tradhtoja ato pak fjalë të shkruara me dorë nga dikush që nuk do ta njohim kurrë.
+Thoshte shumë më pak. Disa faqe, disa rreshta të fshirë nga uji. Thoshte që Halili ishte nisur për një luftë të largët dhe ishte kthyer. Thoshte që i kishin prerë dorën e djathtë dhe që ai kishte fituar me të majtën. Thoshte që një titull kishte ardhur nga Stambolli dhe që nga një mashtrim, ose nga një shaka, ishte bërë mbiemri ynë. Pjesën tjetër m'u desh ta përfytyroj vetë, rresht pas rreshti, natë pas nate, duke u përpjekur të mos i tradhtoja ato pak fjalë të shkruara me dorë nga kushëriri i gjyshit tim, shumë vite më parë.
 
 Por një gjë, libri, e thoshte qartë. Thoshte ç'do të thotë *sallak*.
 
@@ -14,13 +14,13 @@ Ai që përdor dorën e majtë. Ai që i bën të gjitha së prapthi.
 
 ***
 
-E lexova atë fjalë ulur në tryezën e kuzhinës së babait, mbrëmjen që u kthyem nga shtëpia e vjetër. E lexova dhe m'u kujtua gjyshi, zëri i tij i ngjirur, pauzat e tij të gjata. «Halili e kishte dorën sallake.» Asgjë tjetër. Dhe unë që e pyesja ç'donte të thoshte, dhe ai që qeshte dhe ndërronte bisedë.
+E lexova atë fjalë ulur në tryezën e kuzhinës së babait, mbrëmjen që u kthyem nga shtëpia e vjetër. E lexova dhe u ktheva para atij oxhaku, në errësirë, me fytyrën të nxehtë dhe shpinën të ftohtë. Te zëri i gjyshit tim. «Halili e kishte dorën sallake.» Dhe unë që nuk kisha pasur guximin ta pyesja.
 
-Tani e di pse qeshte.
+Tani e di.
 
-Nuk qeshte me mua. Qeshte sepse historia ishte e gjitha aty, në atë fjalë të vetme, dhe ai e dinte. Një burrë që humb dorën e djathtë dhe fiton me të majtën. Një fshat që merr emrin nga një mëngjarash dhe nga një sakat. Një familje që mban prej më shumë se dyqind vjetësh një titull të vjedhur nga një fqinj dinak. Qeshte sepse disa histori, po t'i shpjegosh, thyhen. Duhet t'i lësh të plota, dhe të presësh që dikush, një ditë, t'i hapë vetë.
+Historia ishte e gjitha aty, në atë fjalë të vetme, dhe gjyshi im ma kishte dhënë të plotë. Një burrë që humb dorën e djathtë dhe fiton me të majtën. Një fshat që merr emrin nga një mëngjarash dhe nga një sakat. Një familje që mban prej më shumë se dyqind vjetësh një titull të vjedhur nga një fqinj dinak. Dhe një mbiemër që në Itali askush nuk di ta shqiptojë, dhe që për vite me radhë më kishte ardhur turp ta mbaja.
 
-Gjyshi im priti. I shkroi emrat e tij në fund të pemës, me stilolapsin e tij, dhe e vuri librin përsëri nën dërrasën e dyshemesë. Dhe priti.
+Gjyshi im kishte pritur gjithë jetën që dikush t'i bënte atë pyetje. Mua m'u deshën vite për ta kuptuar përgjigjen.
 
 ***
 

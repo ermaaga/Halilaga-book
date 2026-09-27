@@ -1,11 +1,11 @@
 # Epilogo
 
 <!-- SCALETTA: Oggi. Ermal ora sa cosa voleva dire il nonno con «la mano sallake». -->
-<!-- Bozza 1. Torna la voce del prologo. Non si inventa nulla di nuovo sulla famiglia reale: niente su quale mano usi Ermal, niente sul destino reale del coltello. -->
+<!-- Bozza 1 (paragrafo sul nonno aggiornato al prologo bozza 2). Torna la voce del prologo. Non si inventa nulla di nuovo sulla famiglia reale: niente su quale mano usi Ermal, niente sul destino reale del coltello. -->
 
 Il libro che abbiamo trovato sotto il pavimento non diceva tutto questo.
 
-Diceva molto meno. Qualche pagina, qualche riga cancellata dall'acqua. Diceva che Halil era partito per una guerra lontana ed era tornato. Diceva che gli avevano tagliato la mano destra e che lui aveva vinto con la sinistra. Diceva che un titolo era arrivato da Istanbul e che per un imbroglio, o per uno scherzo, era diventato il nostro cognome. Il resto l'ho dovuto immaginare io, riga dopo riga, notte dopo notte, cercando di non tradire quelle poche parole scritte a mano da qualcuno che non conosceremo mai.
+Diceva molto meno. Qualche pagina, qualche riga cancellata dall'acqua. Diceva che Halil era partito per una guerra lontana ed era tornato. Diceva che gli avevano tagliato la mano destra e che lui aveva vinto con la sinistra. Diceva che un titolo era arrivato da Istanbul e che per un imbroglio, o per uno scherzo, era diventato il nostro cognome. Il resto l'ho dovuto immaginare io, riga dopo riga, notte dopo notte, cercando di non tradire quelle poche parole scritte a mano dal cugino di mio nonno, tanti anni prima.
 
 Ma una cosa, il libro, la diceva chiaramente. Diceva cosa vuol dire *sallak*.
 
@@ -15,13 +15,13 @@ Quello che usa la mano sinistra. Quello che fa tutto al contrario.
 
 ***
 
-Ho letto quella parola seduto al tavolo della cucina di mio padre, la sera che siamo tornati dalla vecchia casa. L'ho letta e mi sono venuti in mente mio nonno, la sua voce roca, le sue pause lunghe. «Halil aveva la mano sallake.» Nient'altro. E io che gli chiedevo cosa volesse dire, e lui che rideva e cambiava discorso.
+Ho letto quella parola seduto al tavolo della cucina di mio padre, la sera che siamo tornati dalla vecchia casa. L'ho letta e sono tornato davanti a quel camino, al buio, con la faccia calda e la schiena fredda. Alla voce di mio nonno. «Halili e kishte dorën sallake.» E io che non avevo avuto il coraggio di chiedere.
 
-Adesso so perché rideva.
+Adesso lo so.
 
-Non rideva di me. Rideva perché la storia era tutta lì, in quella parola sola, e lui lo sapeva. Un uomo che perde la mano destra e vince con la sinistra. Un villaggio che prende il suo nome da un mancino e da un monco. Una famiglia che porta da più di duecento anni un titolo rubato da un vicino furbo. Rideva perché certe storie, se le spieghi, si rompono. Bisogna lasciarle intere, e aspettare che qualcuno, un giorno, le apra da solo.
+La storia era tutta lì, in quella parola sola, e mio nonno me l'aveva data intera. Un uomo che perde la mano destra e vince con la sinistra. Un villaggio che prende il suo nome da un mancino e da un monco. Una famiglia che porta da più di duecento anni un titolo rubato da un vicino furbo. E un cognome che in Italia nessuno sa pronunciare, e che per anni mi ero vergognato di portare.
 
-Mio nonno ha aspettato. Ha scritto i suoi nomi in fondo all'albero, con la sua penna, e ha rimesso il libro sotto l'asse del pavimento. E ha aspettato.
+Mio nonno aveva aspettato tutta la vita che qualcuno gli facesse quella domanda. Io ci avevo messo anni a capire la risposta.
 
 ***
 

@@ -1,50 +1,94 @@
 # Prologu
 
-<!-- Përkthim i bozzës 1 italiane. -->
+<!-- Përkthim i bozzës 2 italiane (27/09/2026). -->
 
-Nga gjyshi im, para së gjithash, më kujtohet zëri. Ishte i ulët, pak i ngjirur, dhe kur fliste ndalej shpesh, sikur fjalët duhej t'i merrte në një dhomë tjetër.
+Mbiemri im fillon me një shkronjë që në Itali nuk e shqipton askush.
 
-Për Halilin fliste pak. Emri i dilte befas, në tryezë ose në mbrëmje, kur dikush bënte ndonjë gjë shtrembër dhe ai tundte kokën. Thoshte: «Halili e kishte dorën sallake». Asgjë tjetër. Pastaj kthehej te puna e tij.
+Erdha në Itali fëmijë, në vitet e para të dymijës. Ditën e parë të shkollës mësuesja bëri apelin, arriti te emri im dhe u ndal. Shikoi regjistrin, pastaj mua, pastaj përsëri regjistrin.
 
-Unë nuk e dija ç'donte të thoshte *sallake*. Nuk ishte fjalë që përdorej në shtëpi, dhe në shkollë nuk e kisha dëgjuar kurrë. Një herë e pyeta. Duhet të kem qenë gjashtë a shtatë vjeç. Ai qeshi dhe ndërroi bisedë.
+«Ermal... Alilaga?»
 
-Kush ishte Halili e kuptova më vonë, copa-copa. Ishte i pari. Ai prej të cilit vijmë të gjithë. Mbiemri ynë, Halilaga, është emri i tij me një titull të ngjitur pas, si një medalje e qepur mbi xhaketë. Në fshat, në Leshtej-Çollakë, të gjithë e dinin që Halilagajt vinin prej tij. Askush nuk dinte shumë më tepër.
+Halilaga. Me H.
 
-Gjyshi im iku pa ma treguar. Ndoshta as ai nuk e dinte të plotë. Ndoshta i kishte ardhur ashtu si më erdhi mua: një fjali e vetme, e kaluar nga babai te i biri për më shumë se dyqind vjet, e konsumuar si një monedhë që ka kaluar nëpër shumë duar. Shifra lexohet ende, por fytyra nuk duket më.
+Në atë qytet nuk kishte asnjë tjetër me atë mbiemër. Asnjë. Nuk ishte në numëratorin telefonik, nuk ishte mbi kutitë e postës, nuk e kishte dëgjuar kurrë njeri. E gabonin të gjithë. Alilaga. Halilagà. Kalilaga. Një herë, në një formular, dikush shkroi *Halil Aga*, të ndarë, sikur të ishin dy njerëz.
+
+Mësova shpejt ta thosha në një mënyrë të caktuar, me një frymë, si një formulë.
+
+«Halilaga, me H. Ermal, pa H.»
+
+Kështu e them edhe sot. Dhe edhe sot, një herë në dy, ma shkruajnë së prapthi: H-në para emrit dhe asgjë para mbiemrit.
+
+Ka pasur një kohë kur më vinte turp. Në dhjetë, dymbëdhjetë vjeç do vetëm të jesh si të tjerët, dhe një emër që askush nuk di ta lexojë është si një xhaketë shumë e gjerë: e shohin të gjithë, dhe ti nuk di ku të futesh. Do të kisha dhënë çdo gjë të quhesha Rossi.
+
+Pastaj, duke u rritur, turpi u bë tjetër gjë. U bë një pyetje. Çfarë do të thotë? Nga vjen? Pse ne, dhe askush tjetër?
+
+Në Itali askush nuk mund të më përgjigjej. Përgjigjja, po të kishte, ishte në anën tjetër të detit.
 
 ***
 
-Vite më vonë, unë dhe babai im u kthyem në shtëpinë e vjetër.
+Gjyshërit e mi kishin mbetur në Shqipëri, dhe shkonim atje një herë në vit.
 
-Aty nuk banonte njeri prej kohësh. Porta nuk mbyllej më, bari arrinte deri te dritaret dhe çatia, nga njëra anë, kishte rënë. Babai im eci para meje pa folur. Ndalej, prekte një mur, shikonte lart. Unë e ndiqja dhe përpiqesha t'i përfytyroja ato dhoma plot me njerëz, me zëra, me tym.
+Kur shkoja nuk mendoja të bëja pyetje. Kishte kushërinj, ara, vrapime me biçikletë nëpër rrugët e bardha, halla që ta mbushnin pjatën dy herë. Mbiemri, atje, nuk ishte i çuditshëm. Atje ishim shumë.
+
+Në ato vite, në Shqipëri, drita në mbrëmje ikte. Zhdukej befas, e gjitha njëherësh, në gjithë fshatin, dhe kthehej të nesërmen, kur t'i donte qejfi. Atëherë uleshim para oxhakut. Nuk kishte televizor, nuk kishte ç'të bëje, dhe të mëdhenjtë tregonin. Histori, legjenda, ngjarje lufte, njerëz të vdekur prej njëqind vjetësh që në tregimet e tyre ktheheshin të ecnin e të flisnin. Ne fëmijët rrinim ulur përdhe, me fytyrën të nxehtë nga zjarri dhe shpinën të ftohtë nga errësira, dhe dëgjonim.
+
+Aty, në një nga ato mbrëmje, më lindi pyetja.
+
+Prita që të tjerët të heshtnin. Pastaj e pyeta gjyshin tim çfarë donte të thoshte mbiemri ynë.
+
+Më shikoi gjatë, me zjarrin në sy. Pastaj tha një gjë që nuk e prisja.
+
+«Askush nuk ma ka pyetur kurrë.»
+
+Asnjë nga nipërit e tij, në kaq shumë vite. Isha i pari.
+
+Dhe tregoi.
+
+***
+
+Tha që atë histori ia kishte treguar gjyshi i tij, Isufi, kur ai ishte djalë. Dhe që Isufi ua kishte treguar vetëm dy nipërve: atij dhe një kushëriri. Askujt tjetër. Sikur të ishte një gjë që dorëzohet dorë më dorë, dhe jo që bërtitet në shesh.
+
+Pastaj filloi të flasë për një burrë që quhej Halil.
+
+Fliste shqip, atë të fshatit: të ngjeshur, të shpejtë, plot fjalë të vjetra. Unë, i rritur në Itali, kuptoja gjysmën. Gjysmën tjetër e merrja me mend nga duart e tij, nga fytyra e tij e kuqe nga zjarri, nga pauzat. Kishte një luftë. Kishte një kthim. Kishte turq. Kishte një titull. Dhe në një çast tha një fjali me një fjalë brenda që nuk e kisha dëgjuar kurrë.
+
+«Halili e kishte dorën sallake.»
+
+Nuk e pyeta çfarë donte të thoshte. Më vinte turp që nuk e dija. Ishte i njëjti turp si për mbiemrin, vetëm së prapthi: në Itali isha ai me emrin që askush nuk dinte ta thoshte, dhe para atij oxhaku isha ai që nuk i kuptonte fjalët e gjyshit të vet.
+
+Kështu fjala më mbeti brenda, e plotë dhe e mbyllur, si një gur në xhep.
+
+Atë mbrëmje gjyshi im tha edhe një gjë tjetër. Që kushëriri, ai të cilit Isufi ia kishte treguar historinë bashkë me të, e kishte shkruar. Në një fletore, me dorë, me të gjithë emrat e familjes. Nuk e dinte ku kishte përfunduar.
+
+***
+
+Vite më vonë, unë dhe babai im u kthyem në shtëpinë e vjetër të familjes, në fshat.
+
+Aty nuk banonte njeri prej kohësh. Porta nuk mbyllej më, bari arrinte deri te dritaret dhe çatia, nga njëra anë, kishte rënë. Babai im eci para meje pa folur. Ndalej, prekte një mur, shikonte lart.
 
 Në dhomën më të madhe dyshemeja ishte me dërrasa. Njëra lëvizte nën këmbë. Babai im u përkul, futi gishtat në të çarë dhe e ngriti.
 
-Poshtë saj ishte një bohçe prej pëlhure, gri nga pluhuri.
+Poshtë saj ishte një bohçe prej pëlhure, gri nga pluhuri. Brenda ishte një fletore e trashë, e lidhur me dorë, me kapak lëkure të prishur nga lagështia.
 
-E hapi ngadalë, siç hapet një letër që ke frikë ta lexosh. Brenda ishte një libër. Jo libër i shtypur: një fletore e trashë, e lidhur me dorë, me kapak lëkure të prishur nga lagështia. Faqet ishin të verdha dhe boja, në disa vende, ishte bërë kafe.
+Në faqen e parë ishte një pemë emrash, të shkruar në kolonë, njëri poshtë tjetrit, me vijat që i lidhnin. Babai im vuri gishtin mbi një emër poshtë dhe e ngjiti ngadalë lart.
 
-E pamë faqen e parë bashkë. Ishte një pemë emrash, të shkruar në kolonë, njëri poshtë tjetrit, me vijat që i lidhnin. Babai im vuri gishtin në fund dhe e ngjiti ngadalë lart.
-
-Ilir. Emri i tij.
-
-Agim. Gjyshi im.
+Agim. I ati. Gjyshi im.
 
 Behxhed. Isuf. Abdyl. Murat.
 
 Dhe në majë, i vetëm, me shkrimin më të madh nga të gjithë: Halil.
 
-Emrat e fundit poshtë ishin shkruar me një stilolaps tjetër, nga një dorë tjetër. Babai im e njohu menjëherë. Ishte dora e të atit.
+Babai im ndenji gjatë pa folur. Unë mendoja oxhakun, errësirën, zërin e gjyshit tim. Kushëririn që kishte shkruar gjithçka. Fletoren për të cilën askush nuk dinte më asgjë, dhe që kishte mbetur aty poshtë gjithë ato vite, duke pritur që dikush të ngrinte dërrasën e duhur.
 
-Ndenji gjatë pa folur. Pastaj ktheu faqen.
+Pastaj babai im ktheu faqen.
 
 ***
 
-Pas pemës ishte një histori. E shkruar nga dikush që nuk do ta njohim kurrë, ndoshta e kopjuar nga një fletore më e vjetër, ndoshta e mbledhur nga zëri i një gjyshi tjetër, para një zjarri tjetër. Nuk ishte e gjatë. Shumë rreshta ishin fshirë nga uji, të tjerë ishin shkruar me nxitim, sikur ai që i shkruante të kishte frikë se do t'i harronte.
+Pas pemës ishte historia. Nuk ishte e gjatë. Shumë rreshta ishin fshirë nga uji, të tjerë ishin shkruar me nxitim, sikur ai që i shkruante të kishte frikë se do t'i harronte.
 
-Por aty ishte gjithçka. Kush ishte Halili, nga ishte nisur, çfarë i kishte ndodhur kur ishte kthyer. Dhe pse fshati ynë quhet kështu.
+Por aty ishte gjithçka. Gjithçka që gjyshi im më kishte treguar para zjarrit, dhe që unë e kisha kuptuar përgjysmë.
 
-Atë mbrëmje, në shtëpinë e babait, i lexova ato faqe tri herë. Herën e tretë e kuptova se nuk më mjaftonin. Se pas çdo rreshti ishte një stinë e tërë, një frikë, një rrugë, një fytyrë. Dhe se po të mos përpiqesha t'i mbushja unë ato boshllëqe, nuk do ta bënte njeri tjetër.
+Atë mbrëmje e lexova tri herë. Herën e tretë e kuptova se nuk më mjaftonte. Se pas çdo rreshti ishte një stinë e tërë, një frikë, një rrugë, një fytyrë. Dhe se po të mos përpiqesha t'i mbushja unë ato boshllëqe, nuk do ta bënte njeri tjetër.
 
 Ajo që vijon është përpjekja ime. Shumë gjëra m'u desh t'i përfytyroj: zërat, gjestet, të ftohtin, ngjyrën e qiellit në disa mëngjese. Disa emra i shpika, të tjerë i gjeta.
 
