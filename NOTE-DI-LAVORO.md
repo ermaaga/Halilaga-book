@@ -337,3 +337,6 @@ Conseguenze:
 - Nel prologo il nonno racconta in un albanese stretto di villaggio. Ermal, cresciuto in Italia, capisce a metà e **non osa chiedere** cosa voglia dire «sallake»: la vergogna del cognome, rovesciata. Così il lettore non sa ancora cosa significhi.
 - Epilogo adattato: il quaderno è del cugino del nonno; il nonno aveva aspettato tutta la vita quella domanda.
 - **Inventati per la scena** (da confermare): l'appello a scuola con «Alilaga?», le storpiature del cognome, il modulo con «Halil Aga» staccato.
+
+### 2026-09-27 — Conferme sull'albero
+Confermati dall'autore: il nonno è **Agim**, il padre è **Ilir (detto anche Lirim)**. Albero dal CONTESTO: Halil → Murat → Abdyl → Isuf → Behxhed → Agim → Ilir → Ermal. Quindi il nonno di Agim, che raccontò la storia a lui e al cugino, è **Isuf** (come scritto nel prologo).
